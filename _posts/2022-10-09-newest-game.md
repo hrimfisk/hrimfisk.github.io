@@ -9,6 +9,6 @@ preview: /assets/postpreview.png
 ![Picture 1](/assets/fullsize.png)
 
 Here's what I worked on:
-* Procedurally Generated Dungeon and Items
+* Procedurally Generated Dungeon and Loot
 * Item, Equipment, and Spell Systems
 * UI and Save/Load system
