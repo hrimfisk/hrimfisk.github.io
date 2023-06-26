@@ -6,6 +6,6 @@ permalink: /about/
 
 ![Picture 1](/assets/fullsize.png)
 
-Hello! I'm Game Developer, an award-winning game developer who can both program and design games. As you can see from my impressive portfolio, I've worked on lots of different games!
+Hello! I'm a programmer passionate about video games. I have been playing video games since I could hold a NES controller and enjoy bringing ideas to life.
 
-If you're interested in what I can offer your company, please contact me!
+If you're interested in what I can offer your company or have any questions, please feel free to contact me!
