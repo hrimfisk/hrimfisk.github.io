@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Newer Game"
-summary: "Senior Technical Designer"
-date:   2022-10-07 15:39:40
-preview: /assets/postpreview.png
+title:  "Expanded Save Game Library"
+summary: "Programmer"
+date:   2022-26-02
+preview: /assets/save_game_plugin_preview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/save_game_plugin.png)
 
-Put down info here, either in bullets or paragraphs.
+I created a code plugin to streamline the saving and loading process in Unreal Engine
+* Nodes design for simplicity with less complexity in each node
+* SaveGameEvents interface for Pre-Save, Pre-Load, Post-Save, Post-Load, and New Save Created events
+* Project Settings entry allows you to customize how the plugin works, such as single or multi file saving
