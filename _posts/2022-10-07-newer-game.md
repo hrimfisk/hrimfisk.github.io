@@ -8,7 +8,7 @@ preview: /assets/save_game_plugin_preview.png
 
 ![Picture 1](/assets/save_game_plugin.png)
 
-I created a code plugin to streamline the saving and loading process in Unreal Engine
+I created a code plugin to streamline the saving and loading process in Unreal Engine:
 * Nodes design for simplicity with less complexity in each node
 * SaveGameEvents interface for Pre-Save, Pre-Load, Post-Save, Post-Load, and New Save Created events
 * Project Settings entry allows you to customize how the plugin works, such as single or multi file saving
