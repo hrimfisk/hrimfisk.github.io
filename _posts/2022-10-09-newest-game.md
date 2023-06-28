@@ -9,6 +9,6 @@ preview: /assets/project_rogue_preview.png
 ![Picture 1](/assets/project_rogue.png)
 
 Here's what I worked on:
-* Procedurally Generated Dungeon, Map, and Loot
-* Item, Equipment, and Spell Systems
+* Procedurally Generated Content: Dungeon, Map, and Loot
+* Stat, Inventory, and Spell Systems
 * UI and Save/Load system
