@@ -3,10 +3,10 @@ layout: post
 title:  "Tristram"
 summary: "Programmer"
 date:   2022-02-16
-preview: /assets/save_game_plugin.png
+preview: /assets/save_game_plugin_preview.png
 ---
 
-![Picture 1](/assets/save_game_plugin_preview.png)
+![Picture 1](/assets/save_game_plugin.png)
 
 I created a code plugin to streamline the saving and loading process in Unreal Engine 4 & 5:
 * Nodes design for simplicity with less complexity in each node, giving devs more power
