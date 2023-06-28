@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expanded Save Game Library"
+title:  "Save Game Library"
 summary: "Programmer"
 date:   2022-02-16
 preview: /assets/save_game_plugin_preview.png
