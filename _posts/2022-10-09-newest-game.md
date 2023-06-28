@@ -12,3 +12,8 @@ Here's what I worked on:
 * Procedurally Generated Content: Dungeon, Map, and Loot
 * Stat, Inventory, and Spell Systems
 * UI and Save/Load system
+  
+Gameplay loop:
+* Choose your starting equipment
+* Kill monsters for items and experience
+* Explore the endless dungeon
