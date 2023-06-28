@@ -3,10 +3,10 @@ layout: post
 title:  "Project Rogue"
 summary: "Programmer and Designer"
 date:   2023-04-09
-preview: /assets/postpreview.png
+preview: /assets/project_rogue_preview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/project_rogue.png)
 
 Here's what I worked on:
 * Procedurally Generated Dungeon, Map, and Loot
