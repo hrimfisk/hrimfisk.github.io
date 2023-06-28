@@ -12,7 +12,7 @@ Built in Unreal Engine 4.27
 
 Here's what I worked on:
 * Procedurally Generated Content: Dungeon, Map, and Loot
-* Stat, Inventory, and Spell Systems
+* Stat, Inventory, Combat, and Spell Systems
 * UI and Save/Load system
   
 Gameplay loop:
