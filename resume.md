@@ -4,10 +4,6 @@ title: ""
 permalink: /resume/
 ---
 
-<<<<<<< Updated upstream
-<object data="/assets/resume.pdf" width="100%" height="600"></object>
-<a href="/assets/resume.pdf" download>Resume.pdf</a>
-=======
 <!--<object data="/assets/resume.pdf" width="100%" height="600"></object>-->
 <style>
 h3
@@ -155,4 +151,3 @@ table, th, td {
         </span>
     </p>
 </div>
->>>>>>> Stashed changes
