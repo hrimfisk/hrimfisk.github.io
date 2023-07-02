@@ -99,6 +99,3 @@ tr, td
   </tr>
 </table>
 </ul>
-<div class="dont-print">
-  <a href="">Steam Link</a> FIX ME
-</div>

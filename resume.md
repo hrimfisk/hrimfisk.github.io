@@ -132,7 +132,6 @@ table, th, td {
                     - Utilizes Expanded Save Game Lib for saving and loading every player character <br>
                     - Custom dungeon and loot generation, combat, spells, UI, and AI
                     <div class="dont-print">
-                        <a href="">Steam Page</a>FIX ME
                         <span style="float:right"><a href="https://hrimfisk.github.io/2023/04/09/project_rogue/">Portfolio Page</a></span>
                     </div>
                 </p>
