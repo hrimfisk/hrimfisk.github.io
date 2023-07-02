@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
+  <div class="dont-print">
+    {% include head.html %}
+  </div>
   <style>
-	  body { background-color: #1E1E1E; }
+	  body { background-color: #181A1B; }
   </style>
 
   <body>
 
     <main class="wrapper">
-      
-      {% include header.html %}
-
+      <div class="dont-print">  
+        {% include header.html %}
+      </div>
       <div class="container">
 		{{ content }}
-
-		{% include info.html %}
-
-        {% include footer.html %}
+    
+    <div class="dont-print">
+		  {% include info.html %}
+      
+      {% include footer.html %}
+    </div>
       </div>
     
     </main>
