@@ -23,3 +23,7 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 
 
 if the site already exists, follow steps 2 and 9
+
+if you get this error: undefined method `tainted?'
+run command: bundle update liquid
+then step 9
