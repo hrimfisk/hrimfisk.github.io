@@ -47,7 +47,7 @@ tr, td
 -->
 
 <h3 style="color:green">My work:</h3>
-* Created a Precedural Dungeon Generator utilizing Binary Spatial Partitioning
+* Created a Procedural Dungeon Generator utilizing Binary Spatial Partitioning
 * Generated the contents of each dungeon room using a Grammar generator with Data Tables
 * Global loot system implemented with Data Tables and weighted randoms
 * Custom built UI, Stats, Inventory, Combat, and Spell systems
