@@ -16,6 +16,7 @@
 .nav-item {
     display: inline-block;
     padding: 1rem;
+    color: red;
 }
 
 .post-nav {
@@ -25,13 +26,22 @@
 
 .post-title {
     display: block;
+    color: rgb(199, 199, 199);
 }
 
 .post-summary {
     display: block;
 	font-size: 0.9em;
+    color: rgb(82, 182, 182);
 }
-
+@media print
+{
+    .dont-print
+    {
+        display:none;
+        margin: 0;
+    }
+}
 /**
  * override column size for mobile
  */
@@ -39,6 +49,14 @@
     .row .column.column-33, .row .column.column-34 {
         flex: 0 0 100%;
         max-width: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) 
+{ 
+    .mobile-only
+    { 
+        display: none;
     }
 }
 
@@ -63,6 +81,7 @@
 	border-bottom: 1px solid $grey-color-light;
     margin: 1rem 0;
     padding: 1rem 0;
+    color: rgb(166, 255, 115);
 }
 
 .contact-list,
