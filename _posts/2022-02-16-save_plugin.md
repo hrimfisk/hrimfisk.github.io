@@ -43,7 +43,7 @@ highlight
 * Functions designed for simplicity with less complexity in each function, giving developers more control
 * SaveGameEvents interface for ease of use and more control of the saving and loading process
 * Project Settings entry allows you to customize how the plugin works
-* <highlight>48 copies sold on the Unreal Markplace as of 05/07/2023</highlight>
+* <highlight>48 copies sold on the Unreal Marketplace as of 05/07/2023</highlight>
 
 <div class="dont-print">
   <a href="https://www.unrealengine.com/marketplace/en-US/product/expanded-save-game-library?sessionInvalidated=true">Marketplace Link</a>
