@@ -5,8 +5,7 @@ summary: "Programmer and Designer"
 date:   2023-04-09
 preview: /assets/project_rogue_preview.png
 ---
-Built in Unreal Engine 4.27
-
+First-Person Roguelike RPG | Built in Unreal Engine 4.27
 <!--![Picture 1](/assets/project_rogue.png)-->
 
 <style>
