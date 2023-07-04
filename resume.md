@@ -46,9 +46,9 @@ name
 <h3>Thomas Jensen</h3>
 Game & Tools Programmer
 <br>
-<a href="jensen.thomas.howard@gmail.com">jensen.thomas.howard@gmail.com</a>
+<a href="mailto: jensen.thomas.howard@gmail.com">jensen.thomas.howard@gmail.com</a>
 <br>
-portfolio: <a href="https://www.hrimfisk.github.io">hrimfisk.github.io</a>
+portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
 <br>
 <br>
 <br>
