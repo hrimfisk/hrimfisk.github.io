@@ -1,18 +1,73 @@
 <!--
   <a class="site-title" href="{{ site.baseurl }}/"><img src="/assets/header.png"></a>
 -->
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+    padding: 0;
+  }
+  
+  table.center {
+    display: inline-block;
+    color: red;
+    margin-left: auto; 
+    margin-right: auto;
+  }
+  </style>
+</head>
+
 <header class="site-header">
+
   <nav class="navbar">
     <ul>
-      <li class="nav-item"><a href="{{ site.baseurl }}/">
-        <img src="/assets/home_icon.png" alt="home" width="75" height="75"> 
-      </a></li>
-	  <li class="nav-item"><a href="{{ site.baseurl }}/resume/">
-      <img src="/assets/resume_icon.png" alt="resume" width="75" height="75"> 
-    </a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/about/">
-        <img src="/assets/about_icon.png" alt="about" width="75" height="75"> 
-      </a></li>
+      <li class="nav-item">
+        <table class = "center">
+          <tr>
+            <th>
+              <a href="{{ site.baseurl }}/">
+                <img src="/assets/home_icon.png" alt="home" width="75" height="75"> 
+              </a>
+            </th>
+          <tr>
+            <td style ="text-align: center">
+              home
+            </td>
+          </tr>
+        </table>
+        </li>
+	  <li class="nav-item">
+      <table class = "center">
+        <tr>
+          <th>
+            <a href="{{ site.baseurl }}/resume/">
+              <img src="/assets/resume_icon.png" alt="resume" width="75" height="75"> 
+            </a>
+          </th>
+        <tr>
+          <td style ="text-align: center">
+            resume
+          </td>
+        </tr>
+      </table>
+      </li>
+      <li class="nav-item">
+        <table class = "center">
+          <tr>
+            <th>
+              <a href="{{ site.baseurl }}/about/">
+                <img src="/assets/about_icon.png" alt="about" width="75" height="75"> 
+              </a>
+            </th>
+          <tr>
+            <td style ="text-align: center">
+              about
+            </td>
+          </tr>
+        </table>
+      </li>
     </ul>
   </nav>
   <div class="mobile-only">

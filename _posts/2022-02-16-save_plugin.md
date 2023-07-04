@@ -5,7 +5,7 @@ summary: "Programmer"
 date:   2022-02-16
 preview: /assets/disk.png
 ---
-I wrote a C++ plugin to streamline the saving and loading process in Unreal Engine 4 & 5:<br>
+I wrote a C++ plugin to streamline the saving and loading process in Unreal Engine 4/5:<br>
 
 <!--![Picture 1](/assets/save_game_plugin.png)-->
 
@@ -32,9 +32,9 @@ highlight
 <div class="dont-print">
   <body>
     <div class="scroll-container">
-      <img src="/assets/save_game_plugin.png" alt="1" width="600" height="400">
-      <img src="/assets/save_game_events.png" alt="2" width="600" height="400">
-      <img src="/assets/save_game_settings.png" alt="3" width="600" height="400">
+      <img src="/assets/save_game_plugin.png" alt="nodes" width="600" height="400">
+      <img src="/assets/save_game_events.png" alt="events" width="600" height="400">
+      <img src="/assets/save_game_settings.png" alt="settings" width="600" height="400">
     </div>
   </body>
 </div>
