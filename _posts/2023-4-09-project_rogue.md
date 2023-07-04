@@ -98,3 +98,9 @@ tr, td
   </tr>
 </table>
 </ul>
+
+<div class="dont-print">
+    <p>
+        <a href="javascript:window.print();">Printer Friendly</a>
+    </p>
+</div>
