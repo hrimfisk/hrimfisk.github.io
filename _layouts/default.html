@@ -10,13 +10,12 @@
   <body>
 
     <main class="wrapper">
-      <div class="dont-print">  
-        {% include header.html %}
-      </div>
+
       <div class="container">
 		{{ content }}
     
     <div class="dont-print">
+      {% include header.html %}
 		  {% include info.html %}
       
       {% include footer.html %}

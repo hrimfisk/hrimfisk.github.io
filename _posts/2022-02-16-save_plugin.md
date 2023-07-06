@@ -28,7 +28,6 @@ highlight
 }
 </style>
 
-
 <div class="dont-print">
   <body>
     <div class="scroll-container">

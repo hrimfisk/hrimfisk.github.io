@@ -67,9 +67,13 @@
 }
 
 .site-footer-home {
-    border-top: 1px solid $grey-color-light;
+    text-align: center;
+    border-top: 1px solid darkgray;
+    color: rgb(95, 94, 94);
     margin: 1rem 0;
     padding: 1rem 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
 	font-size: 0.75em;
 }
 
