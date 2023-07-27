@@ -13,11 +13,9 @@ h3
 h4
 {
     text-align: center;
-    color: green;
 }
 .skill
 {
-    color: green;
     font-size: 16pt;
     margin-bottom: 5px;
 }
@@ -35,7 +33,6 @@ table, th, td {
 }
 subheading
 {
-    color:rgb(101, 172, 172);
 }
 name
 {
@@ -86,7 +83,7 @@ portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
             <body>
                 <br>
                 <p>
-                    <span style="color:green">Education</span><br>
+                    <b>Education</b><br>
                     <subheading>Bachelor of Science<br>
                     Game Programming <br></subheading>
                     Academy of Art University <br>
@@ -95,7 +92,7 @@ portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
                     Dec 2025
                 </p>
                 <p> 
-                    <span style="color: rgb(39, 102, 39)">Interests:</span>
+                    Interests:
                     Gameplay, Tools, PCG, AI, UI, Engine, Multiplayer
                 </p>
                 <p class = "dont-print">
@@ -115,7 +112,7 @@ portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
                     - Rapidly prototyped demos and visual representations for clients <br>
                     - Managed client scheduling
                     <div class="dont-print">
-                        <a href="https://www.wyzant.com/match/tutor/88975343">Tutor Profile</a>
+                        <a href="https://www.wyzant.com/match/tutor/88975343" target="_blank">Tutor Profile</a>
 
                         <br>
                     </div>
@@ -127,7 +124,7 @@ portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
                     - Nodes written in C++ that are accessible from any blueprint to save and load player save slots and game data <br>
                     - Improved based on personal implementations and user feedback
                     <div class="dont-print">
-                        <a href="https://www.unrealengine.com/marketplace/en-US/product/expanded-save-game-library?sessionInvalidated=true">Marketplace Link</a>
+                        <a href="https://www.unrealengine.com/marketplace/en-US/product/expanded-save-game-library?sessionInvalidated=true" target="_blank">Marketplace Link</a>
                         <span style="float:right"><a href="https://hrimfisk.github.io/2022/02/16/save_plugin/">Portfolio Page</a></span>
                     </div>
                 </p>
@@ -139,7 +136,9 @@ portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
                     - 1st Person Dungeon Crawler developed in Unreal Engine 4 for PC using C++ and blueprints <br>
                     - Utilizes Expanded Save Game Library for saving and loading any number of characters that players create<br>
                     - Custom dungeon and loot generation, combat, spells, UI, and AI
+                    - Implemented, debugged, and reﬁned gameplay through prototyping and iterative game development
                     <div class="dont-print">
+                        <a href="https://store.steampowered.com/app/2519470/Project_Rogue/" target="_blank">Steam Link</a>
                         <span style="float:right"><a href="https://hrimfisk.github.io/2023/04/09/project_rogue/">Portfolio Page</a></span>
                     </div>
                 </p>

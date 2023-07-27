@@ -42,7 +42,7 @@ highlight
 * Functions designed for simplicity with less complexity in each function, giving developers more control
 * SaveGameEvents interface for ease of use and more control of the saving and loading process
 * Project Settings entry allows you to customize how the plugin works
-* <highlight>48 copies sold on the Unreal Marketplace as of 05/07/2023</highlight>
+* 48 copies sold on the Unreal Marketplace as of 05/07/2023
 
 
 <div class="dont-print">

@@ -11,13 +11,11 @@ First-Person Roguelike RPG | Built in Unreal Engine 4.27
 <style>
 h3 
 {
-    color: teal;
     font-size: 14pt;
     margin: 0;
 }
 h4
 {
-    color: #4169E1;
     font-size: 14pt;
     margin: 0;
 }
@@ -45,7 +43,7 @@ tr, td
 </video>
 -->
 
-<h3 style="color:green">My work:</h3>
+<h3>My work:</h3>
 * Created a Procedural Dungeon Generator utilizing Binary Spatial Partitioning
 * Generated the contents of each dungeon room using a Grammar generator with Data Tables
 * Global loot system implemented with Data Tables and weighted randoms
@@ -101,6 +99,7 @@ tr, td
 
 <div class="dont-print">
     <p>
-        <a href="javascript:window.print();">Printer Friendly</a>
+        <a href="https://store.steampowered.com/app/2519470/Project_Rogue/">Steam Link</a>
+        <a href="javascript:window.print();" style="float: right">Printer Friendly</a>
     </p>
 </div>
