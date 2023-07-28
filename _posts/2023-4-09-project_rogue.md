@@ -49,6 +49,7 @@ tr, td
 * Global loot system implemented with Data Tables and weighted randoms
 * Custom built UI, Stats, Inventory, Combat, and Spell systems
 * Utilizes Expanded Save Game Library plugin I created for Unreal Engine
+* Designed, implemented, and debugged scalable systems through prototyping and iterative development
   
 <h3>Gameplay loop:</h3>
 * The class you choose decides your starting equipment, then you decide how your character progresses for the rest of the game.
