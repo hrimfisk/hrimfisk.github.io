@@ -135,8 +135,9 @@ portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
                     <i>Group Project (2 people)</i> <br>
                     - 1st Person Dungeon Crawler developed in Unreal Engine 4 for PC using C++ and blueprints <br>
                     - Utilizes Expanded Save Game Library for saving and loading any number of characters that players create<br>
-                    - Custom dungeon and loot generation, combat, spells, UI, and AI
-                    - Implemented, debugged, and reﬁned gameplay through prototyping and iterative game development
+                    - Custom dungeon and loot generation, combat, spells, UI, and AI<br>
+                    - Implemented, debugged, and reﬁned gameplay through prototyping and iterative game development<br>
+                    - Released on Steam August 4th 2023
                     <div class="dont-print">
                         <a href="https://store.steampowered.com/app/2519470/Project_Rogue/" target="_blank">Steam Link</a>
                         <span style="float:right"><a href="https://hrimfisk.github.io/2023/04/09/project_rogue/">Portfolio Page</a></span>
