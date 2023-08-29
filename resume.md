@@ -45,7 +45,7 @@ name
 <h3>Thomas Jensen</h3>
 Game & Tools Programmer
 <br>
-<a href="mailto: jensen.thomas.howard@gmail.com">jensen.thomas.howard@gmail.com</a>
+<a href="mailto: meltykeyboard@gmail.com">meltykeyboard@gmail.com</a>
 <br>
 portfolio: <a href="https://meltykeyboard.wixsite.com/thomasj">meltykeyboard.wixsite.com/thomasj</a>
 <br>
