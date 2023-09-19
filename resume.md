@@ -49,6 +49,7 @@ Game & Tools Programmer
 <br>
 portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
 <br>
+<a href="https://www.linkedin.com/in/hrimfisk/">linkedin.com/in/hrimfisk</a>
 <br>
 </center>
 
@@ -129,10 +130,8 @@ portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
                         <a href="https://www.unrealengine.com/marketplace/en-US/product/expanded-save-game-library?sessionInvalidated=true" target="_blank">Marketplace Link</a>
                     </div>
                 </p>
-
-                <h4>Personal Projects</h4>
                 <p style="text-align: left;">
-                    <subheading><b><a href="https://hrimfisk.github.io/2023/04/09/project_rogue/">Project Rogue</a></b></subheading> <span style="float:right;">| June 2022 - April 2023</span> <br>
+                    <subheading><b><a href="https://hrimfisk.github.io/2023/04/09/project_rogue/">Project Rogue</a></b></subheading> <span style="float:right;">| June 2022 - August 2023</span> <br>
                     <i>Group Project (2 people)</i> <br>
                     - 1st Person Dungeon Crawler developed in Unreal Engine 4 for PC using C++ and blueprints <br>
                     - Utilizes Expanded Save Game Library for saving and loading any number of characters that players create<br>
