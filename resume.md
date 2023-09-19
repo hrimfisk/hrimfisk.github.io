@@ -47,7 +47,7 @@ Game & Tools Programmer
 <br>
 <a href="mailto: meltykeyboard@gmail.com">meltykeyboard@gmail.com</a>
 <br>
-portfolio: <a href="https://meltykeyboard.wixsite.com/thomasj">meltykeyboard.wixsite.com/thomasj</a>
+portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
 <br>
 <br>
 </center>
@@ -120,20 +120,19 @@ portfolio: <a href="https://meltykeyboard.wixsite.com/thomasj">meltykeyboard.wix
                     </div>
                 </p>
                 <p style="text-align: left;">
-                    <subheading><b>Expanded Save Game Library</b></subheading> <span style="float:right;">| Dec 2021 - Present</span> <br>
+                    <subheading><b><a href="https://hrimfisk.github.io/2022/02/16/save_plugin/">Expanded Save Game Library</a></b></subheading> <span style="float:right;">| Dec 2021 - Present</span> <br>
                     <i>Released Marketplace Content</i>  <br>
                     - Plugin that adds a Blueprint Function Library in C++ for Unreal Engine 4/5 <br>
                     - Nodes written in C++ that are accessible from any blueprint to save and load player save slots and game data <br>
                     - Improved based on personal implementations and user feedback
                     <div class="dont-print">
                         <a href="https://www.unrealengine.com/marketplace/en-US/product/expanded-save-game-library?sessionInvalidated=true" target="_blank">Marketplace Link</a>
-                        <span style="float:right"><a href="https://hrimfisk.github.io/2022/02/16/save_plugin/">Portfolio Page</a></span>
                     </div>
                 </p>
 
                 <h4>Personal Projects</h4>
                 <p style="text-align: left;">
-                    <subheading><b>Project Rogue</b></subheading> <span style="float:right;">| June 2022 - April 2023</span> <br>
+                    <subheading><b><a href="https://hrimfisk.github.io/2023/04/09/project_rogue/">Project Rogue</a></b></subheading> <span style="float:right;">| June 2022 - April 2023</span> <br>
                     <i>Group Project (2 people)</i> <br>
                     - 1st Person Dungeon Crawler developed in Unreal Engine 4 for PC using C++ and blueprints <br>
                     - Utilizes Expanded Save Game Library for saving and loading any number of characters that players create<br>
@@ -142,7 +141,6 @@ portfolio: <a href="https://meltykeyboard.wixsite.com/thomasj">meltykeyboard.wix
                     - Early Access on Steam August 5th 2023
                     <div class="dont-print">
                         <a href="https://store.steampowered.com/app/2519470/Project_Rogue/" target="_blank">Steam Link</a>
-                        <span style="float:right"><a href="https://hrimfisk.github.io/2023/04/09/project_rogue/">Portfolio Page</a></span>
                     </div>
                 </p>
             </body>
