@@ -30,6 +30,10 @@ td.experience
 table, th, td {
     border: 0px solid black;
     vertical-align: top;
+    margin:0px;
+}
+p {
+    margin-bottom: 0px;
 }
 subheading
 {
@@ -45,13 +49,22 @@ name
 <h3>Thomas Jensen</h3>
 Game & Tools Programmer
 <br>
-<a href="mailto: meltykeyboard@gmail.com">meltykeyboard@gmail.com</a>
+Portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
 <br>
-portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
+<a href="mailto: meltykeyboard@gmail.com">MeltyKeyboard@Gmail.com</a>
 <br>
-<a href="https://www.linkedin.com/in/hrimfisk/">linkedin.com/in/hrimfisk</a>
+<a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfisk</a>
 <br>
 </center>
+
+<table>
+    <th style="width:44%">
+    <b>Skills</b>
+    </th>
+    <th>
+    <b>Experience</b>
+    </th>
+</table>
 
 <!--
 <p style="text-align: left">
@@ -70,10 +83,10 @@ portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
 <table style="width:100%">
     <tr>
         <td style="width: 26%; border-right: 1px solid green"> <!-- 35 is the minimum for the left column. it will not shrink any more -->
-            <div class="skill">Skill</div>
             <subheading><b>Languages:</b></subheading> <br>
             C++ <br>
             C# <br>
+            XML <br>
             Lua <br>
             <subheading><b>Tools:</b></subheading> <br>
             Unreal <br> 
@@ -91,57 +104,53 @@ portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
                     Game Programming <br></subheading>
                     Academy of Art University <br>
                     San Francisco, CA <br>
-                    Expected Graduation<br>
-                    Dec 2025
+                    2019 - 2025 <br> <br>
                 </p>
                 <p> 
                     Interests:
-                    Gameplay, Tools, PCG, AI, UI, Engine, Multiplayer
+                    Gameplay, Tools, PCG, AI, UI, Engine, Multiplayer <br> <br>
                 </p>
-                <p class = "dont-print">
+                <p >
                     Hobbies: Video Games, Music, Cooking, Acting, Movies, Tutoring
                 </p>
             </body>
         
         </td>
 
-        <td class = "experience">
-            <h4>Experience</h4>
+        <td class = "experience">            
             <body>
                 <p style="text-align: left;">
-                    <subheading><b>Wyzant Tutor</b></subheading><span style="float:right;">| March 2022 - Present</span><br>
-                    <i>Independent</i> <br>
-                    - Taught clients a wide range of programming concepts in C++ and Unreal Engine 4/5 <br>
-                    - Rapidly prototyped demos and visual representations for clients <br>
-                    - Managed client scheduling
+                    <subheading><i><b>Gameplay and Tools Programmer</b></i></subheading><br>
+                    <b><a href="https://hrimfisk.github.io/2023/04/09/project_rogue/">Project Rogue</a></b><span style="float:right;">Jun. '22 - Aug. '23</span> <br>
+                    - 1st Person Dungeon Crawler developed in Unreal Engine 4 for PC using C++ and blueprints <br>
+                    - Utilized my own Unreal Engine Save Game Library for saving and loading data for actors and players<br>
+                    - Featured custom dungeon and loot generation, combat, spells, UI, and AI behaviors<br>
+                    - Designed, implemented, and debugged scalable systems through prototyping and iterative development<br>
                     <div class="dont-print">
-                        <a href="https://www.wyzant.com/match/tutor/88975343" target="_blank">Tutor Profile</a>
-
-                        <br>
+                        <a href="https://store.steampowered.com/app/2519470/Project_Rogue/" target="_blank">Steam Link</a>
                     </div>
+                    <br>
                 </p>
                 <p style="text-align: left;">
-                    <subheading><b><a href="https://hrimfisk.github.io/2022/02/16/save_plugin/">Expanded Save Game Library</a></b></subheading> <span style="float:right;">| Dec 2021 - Present</span> <br>
-                    <i>Released Marketplace Content</i>  <br>
-                    - Plugin that adds a Blueprint Function Library in C++ for Unreal Engine 4/5 <br>
-                    - Nodes written in C++ that are accessible from any blueprint to save and load player save slots and game data <br>
-                    - Improved based on personal implementations and user feedback
+                    <subheading><i><b>Programming Tutor</b></i></subheading><br>
+                    <a href="https://www.wyzant.com/match/tutor/88975343" target="_blank">Wyzant</a><span style="float:right;">Mar. '22 - Present</span><br>
+                    - Taught a wide range of programming concepts in C++ and Unreal Engine 4/5 <br>
+                    - Rapidly prototyped demos and visual representations<br>
+                    - Advised on best practices for unpredictable programming challenges
+                    - Quickly absorbed programming concepts adapting to potential client needs
+                    - Walked clients through various operations, including debugging and optimization <br> <br>
+                </p>
+                <p style="text-align: left;">
+                    <subheading><i><b>Tools Programmer</b></i></subheading><br>
+                    <b><a href="https://hrimfisk.github.io/2022/02/16/save_plugin/">Expanded Save Game Library</a></b><span style="float:right;">Dec. '21 - Present</span> <br>
+                    - Unreal Engine 4/5 plugin made for design teams to save and load game data <br>
+                    - This tool is live on the Unreal Engine Marketplace and regular updates are driven by user feedback <br>
+                    - Created and maintained in C++, simplifies data management via Blueprint nodes library <br>
                     <div class="dont-print">
                         <a href="https://www.unrealengine.com/marketplace/en-US/product/expanded-save-game-library?sessionInvalidated=true" target="_blank">Marketplace Link</a>
                     </div>
                 </p>
-                <p style="text-align: left;">
-                    <subheading><b><a href="https://hrimfisk.github.io/2023/04/09/project_rogue/">Project Rogue</a></b></subheading> <span style="float:right;">| June 2022 - August 2023</span> <br>
-                    <i>Group Project (2 people)</i> <br>
-                    - 1st Person Dungeon Crawler developed in Unreal Engine 4 for PC using C++ and blueprints <br>
-                    - Utilizes Expanded Save Game Library for saving and loading any number of characters that players create<br>
-                    - Custom dungeon and loot generation, combat, spells, UI, and AI<br>
-                    - Designed, implemented, and debugged scalable systems through prototyping and iterative development<br>
-                    - Early Access on Steam August 5th 2023
-                    <div class="dont-print">
-                        <a href="https://store.steampowered.com/app/2519470/Project_Rogue/" target="_blank">Steam Link</a>
-                    </div>
-                </p>
+
             </body>
         </td>
     </tr>
