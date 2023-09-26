@@ -51,9 +51,9 @@ Game & Tools Programmer
 <br>
 Portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
 <br>
-<a href="mailto: meltykeyboard@gmail.com">MeltyKeyboard@Gmail.com</a>
+Gmail: <a href="mailto: meltykeyboard@gmail.com">MeltyKeyboard@Gmail.com</a>
 <br>
-<a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfisk</a>
+LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfisk</a>
 <br>
 </center>
 
