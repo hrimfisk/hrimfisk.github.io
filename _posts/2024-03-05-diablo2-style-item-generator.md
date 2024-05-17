@@ -29,8 +29,9 @@ highlight
 </style>
 
 This project was accepted into the AAU 2024 Spring Show and the image below is my poster<br>
-If you are having trouble viewing any images, open them in a new tab<br>
-The item tooltips in the poster are also in a list of scrollable screenshots below
+- If you are on a mobile device, this page is best viewed in landscape mode<br>
+- If you are having trouble viewing any images, open them in a new tab<br>
+- The item tooltips in the poster are also in a list of scrollable screenshots below
 <div class="dont-print">
   <img src="/assets/springShowPoster.png" alt="closePalette" width="800" height="1200">
   This is the video I created for the presentation
