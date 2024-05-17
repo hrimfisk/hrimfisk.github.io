@@ -28,13 +28,15 @@ highlight
 }
 </style>
 
-This project was accepted into the AAU 2024 Spring Show and the image below is my poster
+This project was accepted into the AAU 2024 Spring Show and the image below is my poster<br>
+If you are having trouble viewing any images, open them in a new tab<br>
+The item tooltips in the poster are also in a list of scrollable screenshots below
 <div class="dont-print">
   <img src="/assets/springShowPoster.png" alt="closePalette" width="800" height="1200">
   This is the video I created for the presentation
-<iframe width="760" height="425" src="https://www.youtube.com/embed/G4J9fVMO-6c?si=ryjLk9EauMmLR92t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="760" height="425" id="d2project" src="https://www.youtube.com/embed/G4J9fVMO-6c?si=ryjLk9EauMmLR92t" title="Presentation Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+Here are some screenshots
 <div class="dont-print">
   <body>
     <div class="scroll-container">
@@ -43,9 +45,14 @@ This project was accepted into the AAU 2024 Spring Show and the image below is m
       <img src="/assets/normalItemTooltip.png" alt="normal_item" width="600" height="200">
       <img src="/assets/superiorItemTooltip.png" alt="superior_item" width="600" height="280">
       <img src="/assets/magicItemTooltip.png" alt="magic_item" width="600" height="280">
-      <img src="/assets/rareItemtooltip.png" alt="rare_item" width="600" height="400">
-      <img src="/assets/uniqueItemTooltip.png" alt="unique_item" width="600" height="400">
+      <img src="/assets/rareItemTooltip.png" alt="rare_item" width="600" height="400">
+      <img src="/assets/uniqueItemTooltip.png" alt="unique_item" width="550" height="400">
       <img src="/assets/setItemTooltip.png" alt="set_item" width="400" height="400">
+      <img src="/assets/setArmorTooltip.png" alt="set_armor" width="400" height="400">
+      <img src="/assets/rareAmuletTooltip1.png" alt="rare_amulet1" width="360" height="280">
+      <img src="/assets/rareAmuletTooltip2.png" alt="rare_amulet2" width="400" height="200">
+      <img src="/assets/rareBeltTooltip.png" alt="rare_belt" width="400" height="400">
+      <img src="/assets/uniqueRingTooltip.png" alt="unique_ring" width="400" height="280">
     </div>
   </body>
 </div>
