@@ -27,12 +27,12 @@ highlight
     color: #2A9094;
 }
 </style>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
 This project was accepted into the AAU 2024 Spring Show and the image below is my poster
 <div class="dont-print">
   <img src="/assets/springShowPoster.png" alt="closePalette" width="800" height="1200">
   This is the video I created for the presentation
-  <iframe width="800" height="450" src="https://www.youtube.com/watch?v=G4J9fVMO-6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="760" height="425" src="https://www.youtube.com/embed/G4J9fVMO-6c?si=ryjLk9EauMmLR92t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="dont-print">
@@ -40,11 +40,11 @@ This project was accepted into the AAU 2024 Spring Show and the image below is m
     <div class="scroll-container">
       <img src="/assets/d2_item_editor.png" alt="item_editor" width="800" height="400">
       <img src="/assets/d2_affixes_editor.png" alt="affixes_editor" width="400" height="400">
-      <!-- <img src="/assets/normalItemTooltip.png" alt="normal_item" width="600" height="200">
+      <img src="/assets/normalItemTooltip.png" alt="normal_item" width="600" height="200">
       <img src="/assets/superiorItemTooltip.png" alt="superior_item" width="600" height="280">
       <img src="/assets/magicItemTooltip.png" alt="magic_item" width="600" height="280">
       <img src="/assets/rareItemtooltip.png" alt="rare_item" width="600" height="400">
-      <img src="/assets/uniqueItemTooltip.png" alt="unique_item" width="600" height="400"> -->
+      <img src="/assets/uniqueItemTooltip.png" alt="unique_item" width="600" height="400">
       <img src="/assets/setItemTooltip.png" alt="set_item" width="400" height="400">
     </div>
   </body>
