@@ -101,7 +101,7 @@ Affixes are broken down like so: Affix Entries contain Affix Packages, which con
   - Weight of the package
   - Affix Range of values for the primary and possible secondary affix
   - List of base items it can appear on (e.g. belt, bow, armor, or weapon)
-<h3>Choosing Affixes for an Item:</h3>
+<h4>Choosing Affixes for an Item:</h4>
 * Only 1 Affix Package per Affix Entry can be chosen when creating an item
 * The level requirement of the Affix Package must be less than or equal to the item level to be chosen
 <h4>Primary and Secondary Affixes:</h4>
