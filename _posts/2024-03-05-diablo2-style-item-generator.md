@@ -28,8 +28,7 @@ highlight
 }
 </style>
 
-This project was accepted into the AAU 2024 Spring Show and the image below is the poster I created
-with the help of Robert Grasso
+This project was accepted into the AAU 2024 Spring Show and the image below is my poster
 <div class="dont-print">
   <img src="/assets/springShowPoster.png" alt="closePalette" width="800" height="1200">
   This is the video I created for the presentation
