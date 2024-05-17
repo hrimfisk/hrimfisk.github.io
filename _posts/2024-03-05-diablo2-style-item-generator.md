@@ -27,7 +27,7 @@ highlight
     color: #2A9094;
 }
 </style>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 This project was accepted into the AAU 2024 Spring Show and the image below is my poster
 <div class="dont-print">
   <img src="/assets/springShowPoster.png" alt="closePalette" width="800" height="1200">

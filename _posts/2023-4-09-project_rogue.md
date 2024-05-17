@@ -29,7 +29,7 @@ tr, td
     padding: 0px;
 }
 </style>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 <div class="dont-print">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Ywr9jQvWZ4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
