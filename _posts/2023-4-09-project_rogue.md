@@ -3,10 +3,9 @@ layout: post
 title:  "Project Rogue"
 summary: "Programmer and Designer"
 date:   2023-04-09
-preview: /assets/project_rogue_preview.png
+preview: /assets/Project_Rogue/project_rogue_preview.png
 ---
-First-Person Roguelike RPG | Built in Unreal Engine 4.27
-<!--![Picture 1](/assets/project_rogue.png)-->
+First-Person Roguelike RPG - Built in Unreal Engine 4.27
 
 <style>
 h3 
@@ -29,9 +28,8 @@ tr, td
     padding: 0px;
 }
 </style>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 <div class="dont-print">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Ywr9jQvWZ4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Ywr9jQvWZ4E" title="Project Rogue Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!-- take screenshots of data tables to show how im using them? -->
