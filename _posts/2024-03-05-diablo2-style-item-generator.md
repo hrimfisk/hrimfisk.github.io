@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Diablo 2 Style Item Generator"
-summary: "Programmer"
+summary: "Tools Programmer"
 date:   2024-03-05
-preview: /assets/d2_item_generator_logo.png
+preview: /assets/D2_Project/d2_item_generator_logo.png
 ---
 <!--![Picture 1](/assets/project_rogue.png)-->
 
@@ -13,7 +13,7 @@ preview: /assets/d2_item_generator_logo.png
 div.scroll-container 
 {
   background-color: #333;
-  overflow: auto;
+  overflow: scroll;
   white-space: nowrap;
   padding: 10px;
 }
@@ -33,30 +33,40 @@ This project was accepted into the AAU 2024 Spring Show and the image below is m
 - If you are having trouble viewing any images, open them in a new tab<br>
 - The item tooltips in the poster are also in a list of scrollable screenshots below
 <div class="dont-print">
-  <img src="/assets/springShowPoster.png" alt="closePalette" width="800" height="1200">
-  This is the video I created for the presentation
-<iframe width="760" height="425" id="d2project" src="https://www.youtube.com/embed/G4J9fVMO-6c?si=ryjLk9EauMmLR92t" title="Presentation Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-Here are some screenshots
+<img src="/assets/D2_Project/2024_Award_Certificates_Programming_Jensen.jpg" alt="certificate" width="800" height="600">
+Here are some screenshots that you can scroll through
 <div class="dont-print">
   <body>
     <div class="scroll-container">
-      <img src="/assets/d2_item_editor.png" alt="item_editor" width="800" height="400">
-      <img src="/assets/d2_affixes_editor.png" alt="affixes_editor" width="400" height="400">
-      <img src="/assets/normalItemTooltip.png" alt="normal_item" width="600" height="200">
-      <img src="/assets/superiorItemTooltip.png" alt="superior_item" width="600" height="280">
-      <img src="/assets/magicItemTooltip.png" alt="magic_item" width="600" height="280">
-      <img src="/assets/rareItemTooltip.png" alt="rare_item" width="600" height="400">
-      <img src="/assets/uniqueItemTooltip.png" alt="unique_item" width="550" height="400">
-      <img src="/assets/setItemTooltip.png" alt="set_item" width="400" height="400">
-      <img src="/assets/setArmorTooltip.png" alt="set_armor" width="400" height="400">
-      <img src="/assets/rareAmuletTooltip1.png" alt="rare_amulet1" width="360" height="280">
-      <img src="/assets/rareAmuletTooltip2.png" alt="rare_amulet2" width="400" height="200">
-      <img src="/assets/rareBeltTooltip.png" alt="rare_belt" width="400" height="400">
-      <img src="/assets/uniqueRingTooltip.png" alt="unique_ring" width="400" height="280">
+      <img src="/assets/D2_Project/normalItemTooltip.png" alt="normal_item" width="600" height="200">
+      <img src="/assets/D2_Project/superiorItemTooltip.png" alt="superior_item" width="600" height="280">
+      <img src="/assets/D2_Project/magicItemTooltip.png" alt="magic_item" width="600" height="280">
+      <img src="/assets/D2_Project/rareItemTooltip.png" alt="rare_item" width="600" height="400">
+      <img src="/assets/D2_Project/uniqueItemTooltip.png" alt="unique_item" width="550" height="400">
+      <img src="/assets/D2_Project/setItemTooltip.png" alt="set_item" width="400" height="400">
+      <img src="/assets/D2_Project/setArmorTooltip.png" alt="set_armor" width="400" height="400">
+      <img src="/assets/D2_Project/rareAmuletTooltip1.png" alt="rare_amulet1" width="360" height="280">
+      <img src="/assets/D2_Project/rareAmuletTooltip2.png" alt="rare_amulet2" width="400" height="200">
+      <img src="/assets/D2_Project/rareBeltTooltip.png" alt="rare_belt" width="400" height="400">
+      <img src="/assets/D2_Project/uniqueRingTooltip.png" alt="unique_ring" width="400" height="280">
     </div>
   </body>
 </div>
+<br>
+<h4>These are the custom editor windows used to input data for the system to use</h4>
+<div class="scroll-container">
+  <img src="/assets/D2_Project/d2_item_editor_left_half.png" alt="item_editor_left" width="800" height="750">
+  <img src="/assets/D2_Project/d2_item_editor_right_half.png" alt="item_editor_right" width="1200" height="750">
+  <img src="/assets/D2_Project/d2_affixes_editor.png" alt="affixes_editor" width="800" height="750">
+</div>
+
+
+
+  <img src="/assets/D2_Project/springShowPoster.png" alt="poster" width="800" height="1200">
+  This is the video I created for the presentation
+<iframe width="760" height="425" id="d2project" src="https://www.youtube.com/embed/G4J9fVMO-6c?si=ryjLk9EauMmLR92t" title="Presentation Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 <h3>Weighted Randoms:</h3>
 - This project heavily utilizes weighted randoms throughout the project
