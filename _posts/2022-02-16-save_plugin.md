@@ -30,6 +30,8 @@ highlight
 
 <div class="dont-print">
   <img src="/assets/SaveGameLibraryPlugin/store_page.png" alt="nodes" width="800" height="450">
+  <img src="/assets/SaveGameLibraryPlugin/review2.png" alt="nodes" width="800" height="120">
+  <img src="/assets/SaveGameLibraryPlugin/review1.png" alt="nodes" width="800" height="255">
   <h3><a href="https://www.unrealengine.com/marketplace/en-US/product/expanded-save-game-library?sessionInvalidated=true">Link to Marketplace Page</a></h3>
 </div>
 

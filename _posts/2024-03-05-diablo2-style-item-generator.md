@@ -54,7 +54,7 @@ Here are some screenshots that you can scroll through
 </div>
 <br>
 <h4>These are the custom editor windows used to input data for the system to use</h4>
-Scroll through these screenshots to seem. The first two are the left and right half of the item editor
+Scroll through these screenshots to see them. The first two are the left and right half of the item editor
 <div class="scroll-container">
   <img src="/assets/D2_Project/d2_item_editor_left_half.png" alt="item_editor_left" width="800" height="750">
   <img src="/assets/D2_Project/d2_item_editor_right_half.png" alt="item_editor_right" width="1200" height="750">
