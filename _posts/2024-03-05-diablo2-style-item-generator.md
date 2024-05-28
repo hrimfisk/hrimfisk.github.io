@@ -3,7 +3,7 @@ layout: post
 title:  "Diablo 2 Style Item Generator"
 summary: "Tools Programmer"
 date:   2024-03-05
-preview: /assets/D2_Project/d2_item_generator_logo.png
+preview: /assets/Experience/D2_Project/preview.png
 ---
 <!--![Picture 1](/assets/project_rogue.png)-->
 
@@ -33,22 +33,22 @@ This project was accepted into the AAU 2024 Spring Show and the image below is m
 - If you are having trouble viewing any images, open them in a new tab<br>
 - The item tooltips in the poster are also in a list of scrollable screenshots below
 <div class="dont-print">
-<img src="/assets/D2_Project/2024_Award_Certificates_Programming_Jensen.jpg" alt="certificate" width="800" height="600">
+<img src="/assets/Experience/D2_Project/2024_Award_Certificates_Programming_Jensen.jpg" alt="certificate" width="800" height="600">
 Here are some screenshots that you can scroll through
 <div class="dont-print">
   <body>
     <div class="scroll-container">
-      <img src="/assets/D2_Project/normalItemTooltip.png" alt="normal_item" width="600" height="200">
-      <img src="/assets/D2_Project/superiorItemTooltip.png" alt="superior_item" width="600" height="280">
-      <img src="/assets/D2_Project/magicItemTooltip.png" alt="magic_item" width="600" height="280">
-      <img src="/assets/D2_Project/rareItemTooltip.png" alt="rare_item" width="600" height="400">
-      <img src="/assets/D2_Project/uniqueItemTooltip.png" alt="unique_item" width="550" height="400">
-      <img src="/assets/D2_Project/setItemTooltip.png" alt="set_item" width="400" height="400">
-      <img src="/assets/D2_Project/setArmorTooltip.png" alt="set_armor" width="400" height="400">
-      <img src="/assets/D2_Project/rareAmuletTooltip1.png" alt="rare_amulet1" width="360" height="280">
-      <img src="/assets/D2_Project/rareAmuletTooltip2.png" alt="rare_amulet2" width="400" height="200">
-      <img src="/assets/D2_Project/rareBeltTooltip.png" alt="rare_belt" width="400" height="400">
-      <img src="/assets/D2_Project/uniqueRingTooltip.png" alt="unique_ring" width="400" height="280">
+      <img src="/assets/Experience/D2_Project/normalItemTooltip.png" alt="normal_item" width="600" height="200">
+      <img src="/assets/Experience/D2_Project/superiorItemTooltip.png" alt="superior_item" width="600" height="280">
+      <img src="/assets/Experience/D2_Project/magicItemTooltip.png" alt="magic_item" width="600" height="280">
+      <img src="/assets/Experience/D2_Project/rareItemTooltip.png" alt="rare_item" width="600" height="400">
+      <img src="/assets/Experience/D2_Project/uniqueItemTooltip.png" alt="unique_item" width="550" height="400">
+      <img src="/assets/Experience/D2_Project/setItemTooltip.png" alt="set_item" width="400" height="400">
+      <img src="/assets/Experience/D2_Project/setArmorTooltip.png" alt="set_armor" width="400" height="400">
+      <img src="/assets/Experience/D2_Project/rareAmuletTooltip1.png" alt="rare_amulet1" width="360" height="280">
+      <img src="/assets/Experience/D2_Project/rareAmuletTooltip2.png" alt="rare_amulet2" width="400" height="200">
+      <img src="/assets/Experience/D2_Project/rareBeltTooltip.png" alt="rare_belt" width="400" height="400">
+      <img src="/assets/Experience/D2_Project/uniqueRingTooltip.png" alt="unique_ring" width="400" height="280">
     </div>
   </body>
 </div>
@@ -56,9 +56,9 @@ Here are some screenshots that you can scroll through
 <h4>These are the custom editor windows used to input data for the system to use</h4>
 Scroll through these screenshots to see them. The first two are the left and right half of the item editor
 <div class="scroll-container">
-  <img src="/assets/D2_Project/d2_item_editor_left_half.png" alt="item_editor_left" width="800" height="750">
-  <img src="/assets/D2_Project/d2_item_editor_right_half.png" alt="item_editor_right" width="1200" height="750">
-  <img src="/assets/D2_Project/d2_affixes_editor.png" alt="affixes_editor" width="800" height="750">
+  <img src="/assets/Experience/D2_Project/d2_item_editor_left_half.png" alt="item_editor_left" width="800" height="750">
+  <img src="/assets/Experience/D2_Project/d2_item_editor_right_half.png" alt="item_editor_right" width="1200" height="750">
+  <img src="/assets/Experience/D2_Project/d2_affixes_editor.png" alt="affixes_editor" width="800" height="750">
 </div>
 
   <img src="/assets/D2_Project/springShowPoster.png" alt="poster" width="800" height="1200">

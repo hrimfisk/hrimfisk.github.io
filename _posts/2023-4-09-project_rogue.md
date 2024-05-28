@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Project Rogue"
-summary: "Programmer and Designer"
+summary: "Game and Tools Programmer"
 date:   2023-04-09
-preview: /assets/Project_Rogue/project_rogue_preview.png
+preview: /assets/OtherProjects/Project_Rogue/project_rogue_preview.png
 ---
-First-Person Roguelike RPG - Built in Unreal Engine 4.27
+First-Person Rogue-lite RPG - Built in Unreal Engine 4.27
 
 <style>
 h3 
@@ -30,6 +30,9 @@ tr, td
 </style>
 <div class="dont-print">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Ywr9jQvWZ4E" title="Project Rogue Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<h4>Here is a gif of different layouts created by the Dungeon Generator. The dungeon has different parameters to control how it gets generated, such as minimum and maximum room size.</h4>
+<img src="/assets/OtherProjects/Project_Rogue/dungeon_generator.gif" alt="dungeon_gif" width="800">
 </div>
 
 <!-- take screenshots of data tables to show how im using them? -->
