@@ -16,7 +16,7 @@ permalink: /about/
     So far, I have enjoyed working on gameplay, PCG, AI, UI, and developer tools, and I'm eager to find out what else. 
     <br>
     <br>
-    I enjoy playing a variety of games, such as Anno 1800, Cities: Skylines, Diablo 2, Dark Souls, Dungeon Defenders, Fallout 3, Heroes of the Storm, Killing Floor, Left 4 Dead, Mordhau, Payday, Rust, The Elder Scrolls, World of Warcraft, Valheim, and more.
+    I enjoy playing a variety of games, such as Anno 1800, Baldur's Gate 3, Cities: Skylines, Diablo 2, Dark Souls, Dungeon Defenders, Fallout 3, Heroes of the Storm, Killing Floor, Left 4 Dead, Mordhau, Payday, Rust, The Elder Scrolls, World of Warcraft, Valheim, and more.
     <br>
     <br>
     If you're interested in what I can offer your company, please contact me!
