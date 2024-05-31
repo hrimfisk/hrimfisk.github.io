@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: otherProjectsPost
 title:  "Bounty Hunter Waystation"
 summary: "AI Programmer"
-date:   2023-01-24
-preview: /assets/OtherProjects/Tristram/preview.png
+date:   2023-05-24
+preview: /assets/Tristram/tristram_preview.png
 ---
 Programming for AI - UE5
 
