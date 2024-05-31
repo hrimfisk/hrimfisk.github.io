@@ -3,11 +3,11 @@ layout: otherProjects
 title: "Other Projects"
 permalink: /otherProjects
 ---
-<!--
 
 <div class="container">
     {{ content }}
 </div>
+<!--
 <main class="wrapper">
     <div class="container">
         <div class="row">
@@ -60,7 +60,6 @@ permalink: /otherProjects
     </div>
 </div>
 <main class="wrapper">
--->
 <div class="container"> 
     <div class="row">
     <div class="column column-33">
@@ -87,3 +86,4 @@ permalink: /otherProjects
     </div>
 <div class="row">
 </div>
+-->

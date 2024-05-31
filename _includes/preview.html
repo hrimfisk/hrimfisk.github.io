@@ -1,5 +1,5 @@
 {% for post in site.posts %}
-    {% cycle 'add row' : '<div class="row">', '', '' %}
+    {% cycle 'add row' : '<div class="row">', '' %}
         <div class="column column-33">
             <div class="preview-panel">
                 <div class="dont-print">
@@ -11,6 +11,6 @@
 				<div class="post-summary">{{ post.summary }}</div>
            </div>
         </div>
-{% cycle 'end row' : '', '', '</div>' %}
+{% cycle 'end row' : '', '</div>' %}
 {% endfor %}
-{% cycle 'end row' : '', '</div>', '</div>' %}
+{% cycle 'end row' : '', '</div>' %}
