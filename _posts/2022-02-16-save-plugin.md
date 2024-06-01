@@ -2,13 +2,12 @@
 layout: post
 title:  "Save Game Library Plugin"
 summary: "Tools Programmer"
-date:   2024-05-5
+date:   2024-05-05
 preview: /assets/Experience/SaveGameLibraryPlugin/ExpSaveIconUEContent.png
 ---
 I wrote a C++ plugin to streamline the saving and loading process in Unreal Engine
 
 <!--![Picture 1](/assets/save_game_plugin.png)-->
-
 <style>
 div.scroll-container 
 {

@@ -88,6 +88,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
             C++ <br>
             C# <br>
             XML <br>
+            JSON <br>
             Lua <br>
             <subheading><b>Tools:</b></subheading> <br>
             Unreal <br> 
