@@ -10,6 +10,12 @@ preview: /assets/Experience/Dead_Mans_Land/preview.png
 - This is a Zombie Shooter I built in Unreal Engine 5 as a Winter 2023-2024 project
 - The goal with this project was building a simple game and experimenting with reusability
 
+<h2>Demonstrates:</h2>
+* Expertise with Unreal Engine and game development concepts
+* Strong C++ skills and the ability to code and architect gameplay mechanics and tools
+* Strong understanding of game design, including mechanics, user interfaces, AI behavior, and game loops
+* Comprehensive understanding of game engine architecture
+
 <style>
 div.scroll-container 
 {

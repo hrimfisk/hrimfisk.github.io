@@ -7,6 +7,12 @@ preview: /assets/OtherProjects/Project_Rogue/preview.png
 ---
 First-Person Rogue-lite RPG - Built in Unreal Engine 4.27
 
+<h2>Demonstrates:</h2>
+* Strong 3D math skills and procedural content generation
+* Strong analytical abilities with creative problem-solving skills, excelling in thinking innovatively and finding unique solutions
+* Experience with source/revision control systems such as Perforce and Git
+* A genuine passion for playing and creating games
+
 <style>
 h3 
 {
@@ -30,8 +36,8 @@ tr, td
 </style>
 <div class="dont-print">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Ywr9jQvWZ4E" title="Project Rogue Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
-<h4>Here is a gif of different layouts created by the Dungeon Generator. The dungeon has different parameters to control how it gets generated, such as minimum and maximum room size.</h4>
+<br><br>
+<h4>Here is a gif of different layouts created by the Dungeon Generator. The dungeon has different parameters to control how it gets generated, such as minimum and maximum room size.</h4><br>
 <img src="/assets/OtherProjects/Project_Rogue/dungeon_generator.gif" alt="dungeon_gif" width="800">
 </div>
 

@@ -28,13 +28,30 @@ h2
 }
 </style>
 
-I provided freelance programming work on an unannounced project in UE4 with numerous features<br>
+I provided freelance programming work on an unannounced multiplayer project in Unreal Engine<br>
 <h2>Demonstrates:</h2>
 * Strong C++ skills and the ability to code and architect gameplay mechanics and tools
 * Expertise with Unreal Engine and game development concepts
 * Strong analytical abilities with creative problem-sovling skills, excelling in thinking innovatively and finding unique solutions
 * Experience of networking game features and awareness of the complexities of networked gameplay (replication of state, behaviors, client/server breakdown of features and game systems)
 
+<h3>My best work:</h3>
+* Customization system:
+  - Extended player customization system to allow different color palettes for each equipment material
+  - Heavily optimized pipeline to make it easier for designers to add to and edit color palettes
+  - Designers can easily add species for the player to change to; Human, Dwarf, etc.
+  - Added a vehicle customization system to customize the chasis, wheels, and headlights
+* Resource and mining system:
+  - Mining a resource vein provides raw resources and increases your level with that resource
+  - Equipment you craft with a refined resource may require a specific level of that resource to use
+  - Prevented raw resources from being transferred from a world to the lobby
+* Mod system:
+  - Allow players to augment their character by equipping mods
+  - Designers can easily create their own custom mods or add mod slots
+* Temperature system: 
+  - Allows designers to add hot or cold areas to any area of any world
+  - Temperature zones can be overlapped, using priority to determine how they get used
+  - If the player is too hot or cold, they will start losing health in specified increments
 
 <!--![Picture 1](/assets/save_game_plugin.png)-->
 
@@ -42,7 +59,7 @@ I provided freelance programming work on an unannounced project in UE4 with nume
 <div class="dont-print">
   <body>
 <br>
-  <img src="/assets/Experience/Exoforge/spending_credits.gif" alt="char_customize_gif" width="800">
+  <img src="/assets/Experience/Exoforge/unlock_with_credits.png" alt="unlock" width="800">
   - I implemented a credits system that allows you to spend credits to unlock colors. It can be expanded to unlock potentially anything<br><br>
   <div class="row">
     <div class="column">
@@ -54,55 +71,37 @@ I provided freelance programming work on an unannounced project in UE4 with nume
   </div>
   - I expanded the customization system to allow for different color palettes for different categories and different materials of the model<br><br>
 
-<img src="/assets/Experience/Exoforge/crafting_requirements.gif" alt="char_customize_gif" width="800">
-  - Resources: I implemented a resource system and added level requirements to craft gear. You need to harvest a resource and level up to craft gear with that resource<br>
-  - I'm using a debug menu to give myself levels to demonstrate not meeting requirements, then leveling up and meeting the requirements<br><br>
+<img src="/assets/Experience/Exoforge/crafting_requirements.png" alt="char_customize_gif" width="800">
+  - Resources: I implemented a resource system and added level requirements to craft gear. You need to harvest a resource and level up to craft gear with that resource<br><br>
       <img src="/assets/Experience/Exoforge/exoforge_inventory.png" alt="inventory" width="800" height="400">
   - I added a carrying capacity system to encumber the player when carrying too much, and a mod system to augment your character in various ways<br><br>
   </body>
 </div>
 
-<h3>My best work:</h3>
-* Credits system:
-  - Players convert resources into credits
-  - Players spend credits to unlock customization colors, and potentially anything else
-* Mod system:
-  - Allow players to augment their character by equipping mods
-  - Designers can easily create their own custom mods or add mod slots
-* Cargo system:
-  - Allows players to transfer items between worlds
-  - Includes personal and public storage.
-* Temperature system: 
-  - Allows designers to add hot or cold areas to any world
-  - Temperature zones can be overlapped, using priority to determine how they get used
-  - If the player is too hot or cold, they will start losing health in increments
 
 <h3>The rest of my work:</h3>
-* Implemented:
-  - Various bug fixes to existing systems from a marketplace asset pack, including merging blueprint
-  - Cargo system for transferring items between worlds
+* Added:
+  * Credits system:
+    - Players convert resources into credits
+    - Players spend credits to unlock customization colors, and potentially anything else
   * Vehicle customization system
-  - Customize the components of the chasis and wheels
-  - Melee mechanic to reduce incoming damage when blocking
-  - Temperature system for designers to add hot or cold areas
-    - If the player is too hot or cold, they will start losing health in increments
-  - Player input remapping system
-  - Stats for players to keep track of their kills
-
+    - Customize the components of the chasis and wheels
+  * Melee mechanic to reduce incoming ranged damage when blocking
+  * Player input remapping system
+  * Stats for players to keep track of their kills
 * Improved:
-  - Crafting systems; vehicles, weapons, armor
-  - Travel system to allow players to easily move between worlds
-  - Debug menu by adding features such as resetting saved spawn location
-  - Health and Steam icon display over players
-  - Crouch and Swim:
+  * Cargo system:
+    - Allows players to transfer items between worlds
+    - Includes personal and public storage.
+  * Crafting systems; vehicles, weapons, armor
+  * Travel system to allow players to easily move between worlds
+  * Debug menu by adding features such as resetting saved spawn location
+  * Health and Steam icon display over players
+  * Character customization with additional color palettes and character species options
+  * Buff system to include temperature and oxygen buffs
+  * Crouch and Swim:
     - Cannot uncrouch under a surface
     - Can now mantle an object at the surface of water
-  - Character customization with additional color palettes and character species options
-  - Buff system to include temperature and oxygen buffs
-  - Resource and mining system:
-    - Mining a resources increases your level with that resource
-    - Equipment you craft with a refined resource may require a specific level of that resource to use
-    - Prevented raw resources from being transferred from a world to the lobby  
 
 <div class="dont-print">
     <p>

@@ -28,10 +28,16 @@ highlight
 }
 </style>
 
-This project was accepted into the AAU 2024 Spring Show and the image below is my poster<br>
-- If you are on a mobile device, this page is best viewed in landscape mode<br>
-- If you are having trouble viewing any images, open them in a new tab<br>
-- The item tooltips in the poster are also in a list of scrollable screenshots below
+* I created a Diablo 2 style item system and generator in Unity for a class project
+* This project was accepted into the AAU 2024 Spring Show
+
+<h2>Demonstrates:</h2>
+
+* Familiarity with performance optimization in game development
+* Strong 3D math and algebra skills as they relate to game programming
+* Ability to build, refine, and customize tools to facilitate content creation
+* Ability to foresee future problems and make adjustments ahead of time
+<br>
 <div class="dont-print">
 <img src="/assets/Experience/D2_Project/2024_Award_Certificates_Programming_Jensen.jpg" alt="certificate" width="800" height="600">
 Here are some screenshots that you can scroll through
@@ -61,9 +67,10 @@ Scroll through these screenshots to see them. The first two are the left and rig
   <img src="/assets/Experience/D2_Project/d2_affixes_editor.png" alt="affixes_editor" width="800" height="750">
 </div>
 
-  <img src="/assets/D2_Project/springShowPoster.png" alt="poster" width="800" height="1200">
+This is my poster for the presentation
+  <img src="/assets/Experience/D2_Project/springShowPoster.png" alt="poster" width="800" height="1200">
 
-  This is the video I created for the presentation
+  This is my video for the presentation
 <iframe width="760" height="425" id="d2project" src="https://www.youtube.com/embed/G4J9fVMO-6c?si=ryjLk9EauMmLR92t" title="Presentation Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 

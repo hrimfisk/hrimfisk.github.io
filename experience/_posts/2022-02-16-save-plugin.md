@@ -6,6 +6,11 @@ date:   2024-05-05
 preview: /assets/Experience/SaveGameLibraryPlugin/ExpSaveIconUEContent.png
 ---
 I wrote a C++ plugin to streamline the saving and loading process in Unreal Engine
+<h2>Demonstrates:</h2>
+* Proficiency with C++ and object-oriented programming
+* Ability to build, refine, and support tools to facilitate content iteration
+* Ability to write clean, maintainable, and extensible code
+* Strong problem-solving abilities and a keen eye for detail
 
 <!--![Picture 1](/assets/save_game_plugin.png)-->
 <style>
@@ -28,9 +33,8 @@ highlight
 </style>
 
 <div class="dont-print">
-  <img src="/assets/Experience/SaveGameLibraryPlugin/store_page.png" alt="nodes" width="800" height="450">
+  <img src="/assets/Experience/SaveGameLibraryPlugin/description.png" alt="nodes" width="540" height="228">
   <img src="/assets/Experience/SaveGameLibraryPlugin/review2.png" alt="nodes" width="800" height="120">
-  <img src="/assets/Experience/SaveGameLibraryPlugin/review1.png" alt="nodes" width="800" height="255">
   <h3><a href="https://www.unrealengine.com/marketplace/en-US/product/expanded-save-game-library?sessionInvalidated=true">Link to Marketplace Page</a></h3>
 </div>
 
@@ -40,12 +44,12 @@ highlight
   - Save entire arrays and structs, or store values individually
   - Easily retrieve stored data with less input
 * SaveGameEvents interface for ease of use and more control of the saving and loading process
-  - Event PreSave is triggered just before a game is saved
-  - Event PreLoad is triggered just before a game is loaded
-  - Event PostSave is triggered right after a game is saved
-  - Event PostLoad is triggered right after a game is loaded
-  - Event OnActorsSpawned is triggered after SpawnEachStoredAfter is called
-  - Event OnNewSaveCreated is triggered when NewSaveGame is called
+  - Event PreSave
+  - Event PreLoad
+  - Event PostSave
+  - Event PostLoad
+  - Event OnActorsSpawned
+  - Event OnNewSaveCreated
 * Project Settings entry allows you to customize how the plugin works
 * The system is fully accessible in C++ and can be extended as needed
 * 55 copies sold on the Unreal Marketplace as of 05/24/2024
