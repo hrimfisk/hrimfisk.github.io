@@ -118,6 +118,14 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
         <td class = "experience">            
             <body>
                 <p style="text-align: left;">
+                    <subheading><i><b>Game Programmer</b></i></subheading><br>
+                    <b>Unannounced Action Game</b><span style="float:right;">Jul. '23 - Present</span> <br>
+                    - Created and implemented several game mechanics in a large scale multiplayer project<br>
+                    - Improved and expanded various systems to improve the development process of the project owner<br>
+                    - Reverse engineered existing code to rebuild and expand game mechanics and systems<br>
+                    - Fixed numerous bugs in the multiplayer asset pack the game was built from<br><br>
+                </p>
+                <p style="text-align: left;">
                     <subheading><i><b>Scare Actor</b></i></subheading><br>
                     <b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b><span style="float:right;">Oct. '22 - Present</span> <br>
                     - Helped train other Scare Actor's to safely scare customers and provide assistance to customers or other actors when necessary<br>
@@ -133,16 +141,6 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
                     - Advised on best practices for unpredictable programming challenges
                     - Quickly absorbed programming concepts adapting to potential client needs
                     - Walked clients through various operations, including debugging and optimization <br> <br>
-                </p>
-                <p style="text-align: left;">
-                    <subheading><i><b>Tools Programmer</b></i></subheading><br>
-                    <b><a href="https://hrimfisk.github.io/2022/02/16/save_plugin/">Expanded Save Game Library</a></b><span style="float:right;">Dec. '21 - Present</span> <br>
-                    - Unreal Engine 4/5 plugin made for game developers to save and load game data <br>
-                    - Live on the Unreal Engine Marketplace and updates are driven by user feedback and experience with my own projects<br>
-                    - Created and maintained in C++ to streamline the development process for designers and artists<br>
-                    <div class="dont-print">
-                        <a href="https://www.unrealengine.com/marketplace/en-US/product/expanded-save-game-library?sessionInvalidated=true" target="_blank">Marketplace Link</a>
-                    </div>
                 </p>
 
             </body>
