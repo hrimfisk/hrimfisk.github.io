@@ -140,7 +140,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
                     - Rapidly prototyped demos and visual representations<br>
                     - Advised on best practices for unpredictable programming challenges
                     - Quickly absorbed programming concepts adapting to potential client needs
-                    - Walked clients through various operations, including debugging and optimization <br> <br>
+                    - Walked clients through various operations, including debugging and optimization
                 </p>
 
             </body>
