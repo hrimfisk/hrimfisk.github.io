@@ -138,8 +138,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
                     <a href="https://www.wyzant.com/match/tutor/88975343" target="_blank">Wyzant</a><span style="float:right;">Mar. '22 - Present</span><br>
                     - Taught a wide range of programming concepts in C++ and Unreal Engine 4/5 <br>
                     - Rapidly prototyped demos and visual representations<br>
-                    - Advised on best practices for unpredictable programming challenges
-                    - Quickly absorbed programming concepts adapting to potential client needs
+                    - Quickly absorbed programming concepts adapting to potential client needs<br>
                     - Walked clients through various operations, including debugging and optimization
                 </p>
 
