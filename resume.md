@@ -14,6 +14,10 @@ h4
 {
     text-align: center;
 }
+h6
+{
+    font-size: 11pt;
+}
 .skill
 {
     font-size: 16pt;
@@ -98,14 +102,15 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
             SDL2 <br>
             SFML <br>
             <body>
-                <br>
+            <br>
                 <p>
                     <b>Education</b><br>
                     <subheading>Bachelor of Science<br>
                     Game Programming <br></subheading>
                     Academy of Art University <br>
-                    2019 - 2025 <br> <br>
+                    Expected 2026 <br> <br>
                 </p>
+                <h6>
                 <p> 
                     Interests:
                     Gameplay, Tools, PCG, AI, UI, Engine, Multiplayer <br> <br>
@@ -113,35 +118,49 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
                 <p >
                     Hobbies: Video Games, Music, Cooking, Acting, Movies, Tutoring
                 </p>
+                </h6>
             </body>
         </td>
         <td class = "experience">            
             <body>
                 <p style="text-align: left;">
-                    <subheading><i><b>Game Programmer</b></i></subheading><br>
-                    <b>Unannounced Action Game</b><span style="float:right;">Jul. '23 - Present</span> <br>
-                    - Created and implemented several game mechanics in a large scale multiplayer project<br>
-                    - Improved and expanded various systems to improve the development process of the project owner<br>
-                    - Reverse engineered existing code to rebuild and expand game mechanics and systems<br>
-                    - Fixed numerous bugs in the multiplayer asset pack the game was built from<br><br>
+                    <subheading><i><b>Tools Programmer</b></i></subheading><br>
+                    <b><a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Save Game Library</a></b><span style="float:right;">Dec. '21 - Present</span> <br>
+                    <h6>
+                    - Unreal Engine plugin created to make save systems easier for developers<br>
+                    - Written and developed in C++ and accessible from any blueprint<br>
+                    - Improved based on personal implementation and user feedback<br>
+                    </h6>
+                </p>
+                <p style="text-align: left;">
+                    <subheading><i><b>Programming Tutor</b></i></subheading><br>
+                    <b><a href="https://www.wyzant.com/match/tutor/88975343" target="_blank">Wyzant</a></b><span style="float:right;">Mar. '22 - Present</span><br>
+                    <h6>
+                    - Taught a wide range of programming concepts in C++ and Unreal Engine<br>
+                    - Rapidly prototyped demos and visual representations<br>
+                    - Quickly absorbed programming concepts adapting to potential client needs<br>
+                    - Walked clients through various operations, including debugging and optimization
+                    </h6>
                 </p>
                 <p style="text-align: left;">
                     <subheading><i><b>Scare Actor</b></i></subheading><br>
                     <b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b><span style="float:right;">Oct. '22 - Present</span> <br>
-                    - Helped train other Scare Actor's to safely scare customers and provide assistance to customers or other actors when necessary<br>
-                    - Created backstories, designed costumes, and developed characters<br>
-                    - Incorporated seasonal demands into my schedule in additional to other jobs and priorities<br>
-                    <br>
+                    <h6>
+                    - Helped train other Scare Actors to provide a safe and fun experience<br>
+                    - Created backstories, developed costumes and characters<br>
+                    - Incorporated seasonal demands into my schedule in addition to other responsibilities<br>
+                    </h6>
                 </p>
                 <p style="text-align: left;">
-                    <subheading><i><b>Programming Tutor</b></i></subheading><br>
-                    <a href="https://www.wyzant.com/match/tutor/88975343" target="_blank">Wyzant</a><span style="float:right;">Mar. '22 - Present</span><br>
-                    - Taught a wide range of programming concepts in C++ and Unreal Engine 4/5 <br>
-                    - Rapidly prototyped demos and visual representations<br>
-                    - Quickly absorbed programming concepts adapting to potential client needs<br>
-                    - Walked clients through various operations, including debugging and optimization
+                    <subheading><i><b>Game Programmer - Freelance</b></i></subheading><br>
+                    <b>Unannounced Action Game</b><span style="float:right;">Jul. '23 - Sep. '24</span> <br>
+                    <h6>
+                    - Created and implemented game mechanics in a large scale multiplayer project<br>
+                    - Improved and expanded various systems to improve the development process of the project owner<br>
+                    - Reverse engineered existing code to rebuild and expand game mechanics and systems<br>
+                    - Fixed numerous bugs in the multiplayer asset pack the game was built from<br>
+                    </h6>
                 </p>
-
             </body>
         </td>
     </tr>
