@@ -3,7 +3,7 @@ layout: post
 title:  "Dead Man's Land"
 summary: "Game Programmer"
 date:   2024-03-05
-preview: /assets/Experience/Dead_Mans_Land/preview.png
+preview: /assets/OtherProjects/Dead_Mans_Land/preview.png
 ---
 <!--![Picture 1](/assets/project_rogue.png)-->
 
@@ -60,17 +60,17 @@ In this example, I created a data table for a centralized location for all sound
 
 <div class="row">
   <div class="column">
-    <img src="/assets/Experience/Dead_Mans_Land/sound_data.png" alt="sound_data" width="400" height="400">
+    <img src="/assets/OtherProjects/Dead_Mans_Land/sound_data.png" alt="sound_data" width="400" height="400">
   </div>
   <div class="column">
-    <img src="/assets/Experience/Dead_Mans_Land/play_sound.png" alt="play_sound" width="390" height="316">
+    <img src="/assets/OtherProjects/Dead_Mans_Land/play_sound.png" alt="play_sound" width="390" height="316">
   </div>
 </div>
 
 For the level layout, I recreated the classic Call of Duty Nazi Zombies level: Nacht Der Untoten
 <div class="dont-print">
-<img src="/assets/Experience/Dead_Mans_Land/birds_eye_view.png" alt="birds_eye_view" width="800" height="400">
-<img src="/assets/Experience/Dead_Mans_Land/player_start.png" alt="player_start" width="800" height="400">
+<img src="/assets/OtherProjects/Dead_Mans_Land/birds_eye_view.png" alt="birds_eye_view" width="800" height="400">
+<img src="/assets/OtherProjects/Dead_Mans_Land/player_start.png" alt="player_start" width="800" height="400">
 </div>
 
 <div class="dont-print">

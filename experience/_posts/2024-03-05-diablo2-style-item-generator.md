@@ -40,7 +40,7 @@ highlight
 <br>
 <div class="dont-print">
 <img src="/assets/Experience/D2_Project/2024_Award_Certificates_Programming_Jensen.jpg" alt="certificate" width="800" height="600">
-Here are some screenshots that you can scroll through
+<b>Here are some screenshots that you can scroll through</b>
 <div class="dont-print">
   <body>
     <div class="scroll-container">
