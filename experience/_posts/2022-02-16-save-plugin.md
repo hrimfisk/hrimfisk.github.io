@@ -3,7 +3,7 @@ layout: post
 title:  "Save Game Library Plugin"
 summary: "Tools Programmer"
 date:   2024-05-05
-preview: /assets/Experience/SaveGameLibraryPlugin/ExpSaveIconUEContent.png
+preview: /assets/Experience/SaveGameLibraryPlugin/ExpSaveIconUEPlugin.png
 ---
 I wrote a C++ plugin to streamline the saving and loading process in Unreal Engine
 <h2>Demonstrates:</h2>
@@ -33,17 +33,21 @@ highlight
 </style>
 
 <div class="dont-print">
-  <img src="/assets/Experience/SaveGameLibraryPlugin/description.png" alt="nodes" width="540" height="228">
-  <img src="/assets/Experience/SaveGameLibraryPlugin/review2.png" alt="nodes" width="800" height="120">
+  <div class="scroll-container">
+    <img src="/assets/Experience/SaveGameLibraryPlugin/add_save_component.png" alt="nodes" width="960" height="450">
+    <img src="/assets/Experience/SaveGameLibraryPlugin/component_settings.png" alt="nodes" width="960" height="450">
+    <img src="/assets/Experience/SaveGameLibraryPlugin/savegame_flag.png" alt="nodes" width="960" height="450">
+    <img src="/assets/Experience/SaveGameLibraryPlugin/save_functions.png" alt="nodes" width="960" height="450">
+    <img src="/assets/Experience/SaveGameLibraryPlugin/load_and_new_functions.png" alt="nodes" width="960" height="450">
+  </div>
   <h3><a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Link to Marketplace Page</a></h3>
 </div>
 
-
+* Adds an actor component to handle automatic saving/loading and actor settings
+* Save/load any of your variables with a single click
 * Blueprint function library with 80 functions accessible from any blueprint, including widgets
 * Functions designed for simplicity with less complexity in each function, giving developers more control
-  - Save entire arrays and structs, or store values individually
-  - Easily retrieve stored data with less input
-* SaveGameEvents interface for ease of use and more control of the saving and loading process
+* Events from the SGL_ActorSave component give more control of the saving and loading process
   - Event PreSave
   - Event PreLoad
   - Event PostSave
