@@ -124,31 +124,12 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
         <td class = "experience">            
             <body>
                 <p style="text-align: left;">
-                    <subheading><i><b>Tools Programmer</b></i></subheading><br>
-                    <b><a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Save Game Library</a></b><span style="float:right;">Dec. '21 - Present</span> <br>
+                    <subheading><i><b>Technical Director - Contract</b></i></subheading><br>
+                    <b>Unannounced Simulation RPG</b><span style="float:right;">July. '24 - Present</span><br>
                     <h6>
-                    - Unreal Engine plugin created to make save systems easier for developers<br>
-                    - Written and developed in C++ and accessible from any blueprint<br>
-                    - Improved based on personal implementation and user feedback<br>
-                    </h6>
-                </p>
-                <p style="text-align: left;">
-                    <subheading><i><b>Programming Tutor</b></i></subheading><br>
-                    <b><a href="https://www.wyzant.com/match/tutor/88975343" target="_blank">Wyzant</a></b><span style="float:right;">Mar. '22 - Present</span><br>
-                    <h6>
-                    - Taught a wide range of programming concepts in C++ and Unreal Engine<br>
-                    - Rapidly prototyped demos and visual representations<br>
-                    - Quickly absorbed programming concepts adapting to potential client needs<br>
-                    - Walked clients through various operations, including debugging and optimization
-                    </h6>
-                </p>
-                <p style="text-align: left;">
-                    <subheading><i><b>Scare Actor</b></i></subheading><br>
-                    <b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b><span style="float:right;">Oct. '22 - Present</span> <br>
-                    <h6>
-                    - Helped train other Scare Actors to provide a safe and fun experience<br>
-                    - Created backstories, developed costumes and characters<br>
-                    - Incorporated seasonal demands into my schedule in addition to other responsibilities<br>
+                    - Building custom tools to facilitate production and development<br>
+                    - Working closely with designers to prototype and develop game systems<br>
+                    - Fixing bugs, optimizing, and adding quality of life features for designers<br>
                     </h6>
                 </p>
                 <p style="text-align: left;">
@@ -159,6 +140,25 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
                     - Improved and expanded various systems to improve the development process of the project owner<br>
                     - Reverse engineered existing code to rebuild and expand game mechanics and systems<br>
                     - Fixed numerous bugs in the multiplayer asset pack the game was built from<br>
+                    </h6>
+                </p>
+                <p style="text-align: left;">
+                    <subheading><i><b>Tools Programmer</b></i></subheading><br>
+                    <b><a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Save Game Library</a></b><span style="float:right;">Dec. '21 - Present</span> <br>
+                    <h6>
+                    - Unreal Engine plugin created to make save systems easier for developers<br>
+                    - Adds components that automate most of the saving process<br>
+                    - Written and developed in C++ and accessible from any blueprint<br>
+                    - Improved based on personal implementation and user feedback<br>
+                    </h6>
+                </p>
+                <p style="text-align: left;">
+                    <subheading><i><b>Scare Actor</b></i></subheading><br>
+                    <b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b><span style="float:right;">Oct. '22 - Present</span> <br>
+                    <h6>
+                    - Helped train other Scare Actors to provide a safe and fun experience<br>
+                    - Created backstories, developed costumes and characters<br>
+                    - Incorporated seasonal demands into my schedule in addition to other responsibilities<br>
                     </h6>
                 </p>
             </body>
