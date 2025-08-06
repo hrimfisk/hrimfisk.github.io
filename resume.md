@@ -130,6 +130,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
                     - Building custom tools to facilitate production and development<br>
                     - Working closely with designers to prototype and develop game systems<br>
                     - Fixing bugs, optimizing, and adding quality of life features for designers<br>
+                    - Teaching engine basics and fundamentals to new developers<br>
                     </h6>
                 </p>
                 <p style="text-align: left;">
