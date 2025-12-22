@@ -35,12 +35,9 @@ highlight
 }
 </style>
 
-<!--
-<video width = "800" height = "800" controls>
-  <source src="/assets/Experience/BarnyardBuddies/BarnyardBuddies! Game Reel.mp4" type="video/mp4">
-  Your browser does not support the video tag
-</video>
--->
+<h3>Gameplay Video:</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JybhA0__zCU?si=2tyB_IkfL3ZxkdP9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h3><a href="https://hrimfisk.itch.io/barnyardbuddies">Link to itch.io Page</a>
 </h3>
 
