@@ -124,7 +124,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
         <td class = "experience">            
             <body>
                 <p style="text-align: left;">
-                    <subheading><i><b>Technical Director - Contract</b></i></subheading><br>
+                    <subheading><i><b>Technical Director</b></i></subheading><br>
                     <b>Unannounced Simulation RPG</b><span style="float:right;">July. '24 - Present</span><br>
                     <h6>
                     - Building custom tools to facilitate production and development<br>
