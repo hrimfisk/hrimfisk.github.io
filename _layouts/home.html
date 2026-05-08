@@ -5,9 +5,10 @@
 
   <style>
 	  body { background-color: #181A1B; }
-    h2
+    h2,h3,h4
     {
       margin-bottom: 0;
+      text-align: center;
     }
     
   </style>
@@ -15,19 +16,16 @@
   <body>
     <center>
       {% include info.html %}
-      <table style="width:40%;">
+      <table style="width:30%;">
         <tr>
-          <th><h2>Thomas Jensen</h2></th>
-        </tr>
-        <tr>
+          <td><h3>Thomas Jensen</h3></td>
+          <td><h4>|</h4></td>
           <td><h4>Game & Tools Programmer</h4></td>
-          <td style = "padding-left: 12%;">{% include header.html %}</td>
-        </tr>
         </tr>
       </table>
+      {% include header.html %}
     </center>
     <main class="wrapper">
-
       <div class="container">
 
 		{{ content }}

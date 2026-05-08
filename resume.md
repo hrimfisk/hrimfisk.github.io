@@ -8,11 +8,13 @@ permalink: /resume/
 <style>
 h3
 {
+    text-align: center;
     margin: 0px;
 }
-h4
+h4, h5
 {
     text-align: center;
+    margin: 0px;
 }
 h6
 {
@@ -50,17 +52,25 @@ name
 
 
 <center>
-<h3>Thomas Jensen</h3>
-Game & Tools Programmer
-<br>
-Portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
-<br>
-Gmail: <a href="mailto: meltykeyboard@gmail.com">MeltyKeyboard@Gmail.com</a>
-<br>
-LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfisk</a>
-<br>
-<br>
+<table>
+    <tr>
+        <td>
+            <h3>Thomas Jensen</h3>
+            <h4>Game & Tools Programmer</h4>
+        </td>
+        <td><span style="float:right;">
+            Portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
+            <br>
+            Gmail: <a href="mailto: meltykeyboard@gmail.com">MeltyKeyboard@Gmail.com</a>
+            <br>
+            LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfisk</a>
+            </span>
+        </td>
+    </tr>
+</table>
 </center>
+<br>
+<br>
 
 <table>
     <th style="width:44%">
@@ -89,27 +99,29 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
     <tr>
         <td style="width: 26%; border-right: 1px solid green"> <!-- 35 is the minimum for the left column. it will not shrink any more -->
             <subheading><b>Languages:</b></subheading> <br>
-            C++ <br>
+            C++ 11/14/17<br>
             C# <br>
-            XML <br>
             JSON <br>
-            Lua <br>
+            XML <br>
+            Lua 5.4 <br>
             <subheading><b>Tools:</b></subheading> <br>
-            Unreal <br> 
-            Unity <br>
+            Unreal 4/5 & GAS <br> 
+            Unity 5 <br>
             Perforce <br>
             Git <br>
             SDL2 <br>
-            SFML <br>
+            SFML 2.5 <br>
             <body>
             <br>
                 <p>
                     <b>Education</b><br>
                     <subheading>Bachelor of Science<br>
-                    Game Programming <br></subheading>
+                    Game Programming</subheading>
+                    <br>
                     Academy of Art University <br>
-                    Expected 2026 <br> <br>
+                    Expected 2027
                 </p>
+                <br>
                 <h6>
                 <p> 
                     Interests:
@@ -125,7 +137,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
             <body>
                 <p style="text-align: left;">
                     <subheading><i><b>Technical Director</b></i></subheading><br>
-                    <b>Unannounced Simulation RPG</b><span style="float:right;">July. '24 - Present</span><br>
+                    <b>Unannounced Survival Horror Game</b><span style="float:right;">Aug. '25 - Present</span><br>
                     <h6>
                     - Building custom tools to facilitate production and development<br>
                     - Working closely with designers to prototype and develop game systems<br>
@@ -134,13 +146,23 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
                     </h6>
                 </p>
                 <p style="text-align: left;">
-                    <subheading><i><b>Game Programmer - Freelance</b></i></subheading><br>
+                    <subheading><i><b>Game Programmer</b></i></subheading><br>
                     <b>Unannounced Action Game</b><span style="float:right;">Jul. '23 - Sep. '24</span> <br>
                     <h6>
-                    - Created and implemented game mechanics in a large scale multiplayer project<br>
-                    - Improved and expanded various systems to improve the development process of the project owner<br>
-                    - Reverse engineered existing code to rebuild and expand game mechanics and systems<br>
-                    - Fixed numerous bugs in the multiplayer asset pack the game was built from<br>
+                    - Created and improved game mechanics in a multiplayer project<br>
+                    - Improved and expanded existing systems to streamline development<br>
+                    - Fixed bugs and optimized existing systems<br>
+                    </h6>
+                </p>
+                <p style="text-align: left;">
+                    <subheading><i><b>Programming & Game Development Tutor</b></i></subheading><br>
+                    <b><a href="https://www.wyzant.com/match/tutor/88975343">Wyzant</a></b><span style="float:right;">Jan. '22 - Oct. '24</span> <br>
+                    <h6>
+                    - Helped students complete programming assignments and courses<br>
+                    - Taught new developers Unreal Engine 4/5 practices and workflows<br>
+                    - Broke down programming concepts in detail for students to understand<br>
+                    - Created a safe environment for students of all walks of life to learn<br>
+                    - Learned new skills quickly to adapt to student needs<br>
                     </h6>
                 </p>
                 <p style="text-align: left;">
@@ -158,8 +180,8 @@ LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfi
                     <b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b><span style="float:right;">Oct. '22 - Present</span> <br>
                     <h6>
                     - Helped train other Scare Actors to provide a safe and fun experience<br>
-                    - Created backstories, developed costumes and characters<br>
-                    - Incorporated seasonal demands into my schedule in addition to other responsibilities<br>
+                    - Assisted with construction, operation, scheduling, and managing actors<br>
+                    - Created backstories, developed costumes and characters
                     </h6>
                 </p>
             </body>
