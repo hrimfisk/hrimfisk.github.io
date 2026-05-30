@@ -52,8 +52,8 @@ div.scroll-container img
 
 <h3>Gameplay:</h3>
 * Players start by constructing buildings that provide power, housing, food, or extract resources
-* Providing power to Needs-based buildings that are turned on add progress to objectives
-* The player wins when Bounty Hunters all objectives are completed, and may continue or end the game
+* Provide power to Needs-based buildings that are turned on add progress to objectives
+* Develop your base as you satisfy the needs of your colony and complete objectives
 
 <div class="dont-print">
     <p>
