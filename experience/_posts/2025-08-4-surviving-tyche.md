@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Unannounced Survival Horror Game"
-summary: "Technical Director"
+summary: "Game & Tools Programmer"
 date:   2025-08-04
 preview: /assets/experience/SurvivingTyche/splash.png
 ---
 
-I'm a freelance contractor and technical director for a game being built in Unreal Engine 5
+I'm a freelance contractor for a survival horror game being built in Unreal Engine 5
 
 <h2>Demonstrates:</h2>
 * Researching new skills to build tools that streamline the development process

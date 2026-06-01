@@ -136,7 +136,7 @@ name
         <td class = "experience">            
             <body>
                 <p style="text-align: left;">
-                    <subheading><i><b>Technical Director</b></i></subheading><br>
+                    <subheading><i><b>Game & Tools Programmer</b></i></subheading><br>
                     <b>Unannounced Survival Horror Game</b><span style="float:right;">Aug. '25 - Present</span><br>
                     <h6>
                     - Building custom tools to facilitate production and development<br>
