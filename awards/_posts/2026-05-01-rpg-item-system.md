@@ -57,20 +57,19 @@ Here are some examples of items I created
     </div>
   </body>
 </div>
-<br>
 These are the custom editor windows used to input data for the system to use
 <div class="scroll-container">
   <img src="/assets/awards/RpgItemSystem/ItemEditorShort.png" alt="base item editor" width="550" height="500">
-  <img src="/assets/awards/RpgItemSystem/UniqueItemEditorShort.png" alt="named item editor" width="858" height="450">
+  <img src="/assets/awards/RpgItemSystem/UniqueItemEditorShort.png" alt="named item editor" width="700" height="400">
   <img src="/assets/awards/RpgItemSystem/AttributeEditorShort.png" alt="attribute editor" width="1040" height="450s">
   <img src="/assets/awards/RpgItemSystem/AffixEditorShort.png" alt="affix editor" width="650" height="500">
   <img src="/assets/awards/RpgItemSystem/ItemSetEditorFull.png" alt="item set editor" width="1456" height="500">
 </div>
 
-This is the poster I created that was displayed at the spring show
-<img src="/assets/awards/RpgItemSystem/springShowPoster.png" alt="poster" width="800" height="1200">
-
-This is the video I created that was displayed next to the poster
+This is the poster I created that was displayed at the Spring Show
+<img src="/assets/awards/RpgItemSystem/SpringShowPoster.png" alt="poster-failed-to-display" width="800" height="1200">
+<br>
+This is the video I created that was displayed alongside the poster
 <video width="760" height="425" controls>
   <source src="/assets/awards/RpgItemSystem/SpringShowVideo.mp4" type="video/mp4">
 </video>
@@ -82,9 +81,9 @@ This is the video I created that was displayed next to the poster
 - Weighted randoms allow you to modify the chance that each element has of occurring for a more specific distribution
 - For most systems, each subsequent element has a 50% lower chance than the previous element
   - For example:
-    - 3 is given a weight of 1 and has the highest chance of occurring
-    - 2 is given a weight of 0.5 and has the next highest chance of occurring
-    - 1 is given a weight of 0.25 and has the lowest chance of occurring
+    - 5 is given a weight of 1 and has the highest chance of occurring
+    - 10 is given a weight of 0.5 and has the next highest chance of occurring
+    - 15 is given a weight of 0.25 and has the lowest chance of occurring
 
 <div class="dont-print">
     <p>
