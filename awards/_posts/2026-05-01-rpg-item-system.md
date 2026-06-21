@@ -28,22 +28,27 @@ highlight
 }
 </style>
 
-* I created a highly modular item and attributes system for RPG developers
+* A highly modular item and attributes system to streamline workflows for RPG developers
 * Winner of the <a href="https://2026springshow.academyart.edu/student/thomas-jensen/">Academy of Art University 2026 Spring Show</a> programming category
 
 <h2>Demonstrates:</h2>
 
-* Familiarity with and understanding of Unreal Slate and GAS
+* Familiarity with and understanding of Unreal Slate, GAS, and Plugins
 * Tools programming and architecture for game-agnostic systems
+* Data-driven design allowing designers to customize the system to their needs
+* Test-driven design using unit tests to prove the system works
 * Project management, task organization, and completing milestones on a deadline
-* Data-driven design allows designers to make their own rules
+* Capability to write, follow, and update technical documentation for systems (<a href="https://docs.google.com/document/d/1wGrnzsM-1utKn-5epSmPEgBop_MC8GqGWC5BpNtbvB8/edit?usp=sharing" target="blank">view here</a>)
 
-<h2>Features:</h2>
-
-* Item Editor: Create your own items
-* Attribute Editor: Generate code for Unreal GAS attribute sets
-* Affix Editor: Decide how items increase your character's attributes
-* Item Set Editor: Activate bonus affixes when specific combinations of items are equipped
+<h3>Features:</h3>
+* Built as a plug-and-play plugin that can easily be added to existing games
+* Does not require usage of a provided Unreal class (Character, Controller, Game Mode, etc)
+* Includes optional example content for in-game components and widgets
+* Includes custom editor windows to add/change game data:
+  * <b>Item Editor</b>: Create your own items and edit existing items
+  * <b>Attribute Editor</b>: Generate code for Unreal GAS attribute sets
+  * <b>Affix Editor</b>: Customize how attributes are added to items
+  * <b>Item Set Editor</b>: Activate bonus affixes when specific combinations of items are equipped
 
 <div class="dont-print">
 Here are some examples of items I created
@@ -75,15 +80,12 @@ This is the video I created that was displayed alongside the poster
 </video>
 </div>
 
-
 <h3>Weighted Randoms:</h3>
-- This project heavily utilizes weighted randoms
-- Weighted randoms allow you to modify the chance that each element has of occurring for a more specific distribution
-- For most systems, each subsequent element has a 50% lower chance than the previous element
-  - For example:
-    - 5 is given a weight of 1 and has the highest chance of occurring
-    - 10 is given a weight of 0.5 and has the next highest chance of occurring
-    - 15 is given a weight of 0.25 and has the lowest chance of occurring
+- This project heavily utilizes weighted randoms, which allow you to modify the chance that each element has of occurring for a more specific distribution
+- For example, given the values 5, 10, and 15, if higher values are meant to be more rare:
+  - 5 is given a weight of 1 and has the highest chance of occurring
+  - 10 is given a weight of 0.5 and has the next highest chance of occurring
+  - 15 is given a weight of 0.25 and has the lowest chance of occurring
 
 <div class="dont-print">
     <p>
