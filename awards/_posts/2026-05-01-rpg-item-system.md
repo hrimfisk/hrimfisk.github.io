@@ -3,11 +3,8 @@ layout: post
 title:  "Rpg Item System"
 summary: "Tools Programmer"
 date:   2026-05-1
-preview: /assets/awards/RpgItemSystem/SpringShowPosterPreview.png
+preview: /assets/awards/RpgItemSystem/SpringShowAward.jpg
 ---
-<!--![Picture 1](/assets/project_rogue.png)-->
-
-
 
 <style>
 div.scroll-container 

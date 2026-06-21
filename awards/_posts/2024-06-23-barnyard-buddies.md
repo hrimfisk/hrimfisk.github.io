@@ -3,7 +3,7 @@ layout: post
 title:  "Barnyard Buddies!"
 summary: "Game Programmer"
 date:   2024-06-23
-preview: /assets/awards/BarnyardBuddies/FirstPlace.png
+preview: /assets/awards/BarnyardBuddies/Score.png
 ---
 Built in Unreal Engine 5.4 and winner of the the <a href="https://itch.io/jam/unreal-sf-game-jam/rate/435881">Unreal SF Game Jam</a>
 <br>

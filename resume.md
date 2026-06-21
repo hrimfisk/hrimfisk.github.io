@@ -56,7 +56,7 @@ name
     <tr>
         <td>
             <h3>Thomas Jensen</h3>
-            <h4>Game & Tools Programmer</h4>
+            <h5>Game & Tools Programmer</h5>
         </td>
         <td><span style="float:right;">
             Portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
