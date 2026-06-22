@@ -51,11 +51,15 @@ subheading
 {
     font-size: 11pt;
 }
-.name
+.project
 {
     font-size: 12pt;
 }
 .award
+{
+    font-size: 10.5pt;
+}
+.awardProject
 {
     font-size: 11pt;
 }
@@ -123,7 +127,7 @@ subheading
 <table style="width:100%">
     <tr>
         <td style="width: 28%; border-right: 1.5px solid green">
-            <h4>Thomas Jensen</h4>
+            <h4><b>Thomas Jensen</b></h4>
             <h6>Game & Tools Programmer</h6>
             <table class = "info">
                 <tr>
@@ -151,6 +155,10 @@ subheading
                     </td>
                 </tr>
             </table>
+            <h6>
+            <b>Introduction</b><br>
+            Always enjoy having new problems to solve. Born to build games and developer tools.
+            </h6>
             <subheading><b>Languages:</b></subheading> <br>
             C++ 11/14/17<br>
             C# <br>
@@ -165,7 +173,6 @@ subheading
             SDL2 <br>
             SFML 2.5 <br>
             <body>
-            <br>
                 <p>
                     <b>Education</b><br>
                     <subheading>Bachelor of Science<br>
@@ -174,11 +181,10 @@ subheading
                     Academy of Art University <br>
                     Expected 2027
                 </p>
-                <br>
                 <p> 
                     <b>Interests:</b> <br>
-                    Gameplay <br>
                     Developer Tools <br>
+                    Gameplay <br>
                     Multiplayer<br>
                     UI <br>
                     PCG <br>
@@ -194,18 +200,26 @@ subheading
                 <td class = "awards">
                     <body>
                         <p>
-                        <span class = "award"><b>Academy of Art University Spring Show Programming Winner</b></span><span style="float:right;">2026</span><br>
-                        <subheading><a href="https://2026springshow.academyart.edu/student/thomas-jensen/">Rpg Item System</a></subheading>
+                        <span class = "award"><b>Academy of Art University Spring Show Programming Winner</b></span><span style="float:right;">May 2026</span><br>
+                        <subheading class = "awardProject"><a href="https://2026springshow.academyart.edu/student/thomas-jensen/">Rpg Item System</a> - Tools Programmer</subheading>
+                        <h6>
+                        Plug-and-play workflow tools and game-side components for RPG developers
+                        </h6>
                         </p>
                         <p>
-                        <span class = "award"><b>Unreal SF Game Jam Winner</b></span><span style="float:right;">2025</span><br>
-                        <subheading><a href="https://itch.io/jam/unreal-sf-game-jam/rate/435881">Barnyard Buddies!</a></subheading>
+                        <span class = "award"><b>Unreal SF Game Jam Winner</b></span><span style="float:right;">July 2025</span><br>
+                        <subheading class = "awardProject"><a href="https://itch.io/jam/unreal-sf-game-jam/rate/435881">Barnyard Buddies!</a> - Game Programmer</subheading>
+                        <h6>
+                        Whimsical and bite-sized complete experience for a monster ritual theme
+                        </h6>
                         </p>
                         <p>
-                        <span class = "award"><b>Academy of Art University Spring Show Programming Winner</b></span><span style="float:right;">2024</span><br>
-                        <subheading><a href="https://2024springshow.academyart.edu/schools/game-development/students/thomas-jensen/"> Diablo 2-Style Item Generator</a></subheading>
+                        <span class = "award"><b>Academy of Art University Spring Show Programming Winner</b></span><span style="float:right;">May 2024</span><br>
+                        <subheading class = "awardProject"><a href="https://2024springshow.academyart.edu/schools/game-development/students/thomas-jensen/"> Diablo 2-Style Item Generator</a> - Tools Programmer</subheading>
+                        <h6>
+                        Item creation and generation tools to use with player-side systems
+                        </h6>
                         </p>
-                        <br>
                     </body>
                 </td>
             </tr>
@@ -218,7 +232,7 @@ subheading
                 <td class = "experience">            
                     <body>
                         <p style="text-align: left;">
-                            <span class="name"><b>Unannounced Survival Horror Game</b></span><span style="float:right;">Aug. '25 - Present</span><br>
+                            <span class="project"><b>Unannounced Survival Horror Game</b></span><span style="float:right;">Aug. '25 - Present</span><br>
                             <subheading><i><b>Game & Tools Programmer</b></i></subheading><br>
                             <h6>
                             - Building custom tools to facilitate production and streamline workflows<br>
@@ -228,7 +242,7 @@ subheading
                             </h6>
                         </p>
                         <p style="text-align: left;">
-                            <span class="name"><b>Unannounced Action Game</b></span><span style="float:right;">Jul. '23 - Sep. '24</span> <br>
+                            <span class="project"><b>Unannounced Action Game</b></span><span style="float:right;">Jul. '23 - Sep. '24</span> <br>
                             <subheading><i><b>Game Programmer</b></i></subheading><br>
                             <h6>
                             - Created and improved game mechanics in a multiplayer project<br>
@@ -237,7 +251,7 @@ subheading
                             </h6>
                         </p>
                         <p style="text-align: left;">
-                            <span class="name"><b><a href="https://www.wyzant.com/match/tutor/88975343">Wyzant</a></b></span><span style="float:right;">Jan. '22 - Oct. '24</span><br>
+                            <span class="project"><b><a href="https://www.wyzant.com/match/tutor/88975343">Wyzant</a></b></span><span style="float:right;">Jan. '22 - Oct. '24</span><br>
                             <subheading><i><b>Programming & Game Development Tutor</b></i></subheading><br>
                             <h6>
                             - Helped students with programming assignments and learning Unreal Engine 4/5<br>
@@ -247,7 +261,7 @@ subheading
                             </h6>
                         </p>
                         <p style="text-align: left;">
-                            <span class="name"><b><a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Save Game Library</a></b></span><span style="float:right;">Dec. '21 - Present</span> <br>
+                            <span class="project"><b><a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Save Game Library</a></b></span><span style="float:right;">Dec. '21 - Present</span> <br>
                             <subheading><i><b>Tools Programmer</b></i></subheading><br>
                             <h6>
                             - Unreal Engine plugin to make save game systems easier for developers<br>
@@ -257,10 +271,10 @@ subheading
                             </h6>
                         </p>
                         <p style="text-align: left;">
-                            <span class="name"><b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b></span><span style="float:right;">Oct. '22 - Present</span> <br>
+                            <span class="project"><b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b></span><span style="float:right;">Oct. '22 - Present</span> <br>
                             <subheading><i><b>Scare Actor</b></i></subheading><br>
                             <h6>
-                            - Developed a haunt character that customers look forward to every year<br>
+                            - Developed a terrifying haunt character that customers look forward to every year<br>
                             - Helped train other Scare Actors to provide a safe and fun scaring experience<br>
                             - Assisted with construction, operation, scheduling, and managing actors<br>
                             </h6>
