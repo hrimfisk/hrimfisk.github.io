@@ -13,12 +13,12 @@ h3
 }
 h4, h5
 {
-    text-align: center;
     margin: 0px;
 }
 h6
 {
-    font-size: 11pt;
+    font-size: 10pt;
+    margin-bottom: 5px;
 }
 .skill
 {
@@ -29,7 +29,13 @@ table.skill
 {
     border: 0px solid black;
 }
-td.experience
+table.info
+{
+    font-size: 10pt;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+td.experience, td.awards
 {
     padding-left: 10px;
 }
@@ -43,35 +49,52 @@ p {
 }
 subheading
 {
+    font-size: 11pt;
 }
-name
+.name
 {
-    font-size: 18pt;
+    font-size: 12pt;
+}
+.award
+{
+    font-size: 11pt;
+}
+@media print
+{
+    body
+    {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
 }
 </style>
 
-
+<!--
 <center>
 <table>
     <tr>
         <td>
-            <h3>Thomas Jensen</h3>
-            <h5>Game & Tools Programmer</h5>
+            <h4>Thomas Jensen</h4>
+            <h6>Game & Tools Programmer</h6>
         </td>
-        <td><span style="float:right;">
+        <td>
+            <h6>
+            <span style="float:right;">
             Portfolio: <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
             <br>
             Gmail: <a href="mailto: meltykeyboard@gmail.com">MeltyKeyboard@Gmail.com</a>
             <br>
             LinkedIn: <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfisk</a>
             </span>
+            </h6>
         </td>
     </tr>
 </table>
 </center>
-<br>
-<br>
+-->
 
+<!--
 <table>
     <th style="width:44%">
     <b>Skills</b>
@@ -80,6 +103,7 @@ name
     <b>Experience</b>
     </th>
 </table>
+-->
 
 <!--
 <p style="text-align: left">
@@ -93,11 +117,40 @@ name
         
     </span>
 </p>
+
 -->
 
 <table style="width:100%">
     <tr>
-        <td style="width: 26%; border-right: 1px solid green"> <!-- 35 is the minimum for the left column. it will not shrink any more -->
+        <td style="width: 28%; border-right: 1.5px solid green">
+            <h4>Thomas Jensen</h4>
+            <h6>Game & Tools Programmer</h6>
+            <table class = "info">
+                <tr>
+                    <td>
+                        <img src = "/assets/Website.png" width=18 height=18>
+                    </td>
+                    <td>
+                        <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src = "/assets/Email.png" width=18 height=18>
+                    </td>
+                    <td>
+                        <a href="mailto: meltykeyboard@gmail.com">MeltyKeyboard@Gmail.com</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src = "/assets/LinkedIn.png" width=18 height=18>
+                    </td>
+                    <td>
+                        <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfisk</a>
+                    </td>
+                </tr>
+            </table>
             <subheading><b>Languages:</b></subheading> <br>
             C++ 11/14/17<br>
             C# <br>
@@ -122,69 +175,100 @@ name
                     Expected 2027
                 </p>
                 <br>
-                <h6>
                 <p> 
-                    Interests:
-                    Gameplay, Tools, PCG, AI, UI, Engine, Multiplayer <br> <br>
+                    <b>Interests:</b> <br>
+                    Gameplay <br>
+                    Developer Tools <br>
+                    Multiplayer<br>
+                    UI <br>
+                    PCG <br>
+                    AI <br>
                 </p>
-                <p >
-                    Hobbies: Video Games, Music, Cooking, Acting, Movies, Tutoring
-                </p>
-                </h6>
             </body>
         </td>
-        <td class = "experience">            
-            <body>
-                <p style="text-align: left;">
-                    <subheading><i><b>Game & Tools Programmer</b></i></subheading><br>
-                    <b>Unannounced Survival Horror Game</b><span style="float:right;">Aug. '25 - Present</span><br>
-                    <h6>
-                    - Building custom tools to facilitate production and development<br>
-                    - Working closely with designers to prototype and develop game systems<br>
-                    - Fixing bugs, optimizing, and adding quality of life features for designers<br>
-                    - Teaching engine basics and fundamentals to new developers<br>
-                    </h6>
-                </p>
-                <p style="text-align: left;">
-                    <subheading><i><b>Game Programmer</b></i></subheading><br>
-                    <b>Unannounced Action Game</b><span style="float:right;">Jul. '23 - Sep. '24</span> <br>
-                    <h6>
-                    - Created and improved game mechanics in a multiplayer project<br>
-                    - Improved and expanded existing systems to streamline development<br>
-                    - Fixed bugs and optimized existing systems<br>
-                    </h6>
-                </p>
-                <p style="text-align: left;">
-                    <subheading><i><b>Programming & Game Development Tutor</b></i></subheading><br>
-                    <b><a href="https://www.wyzant.com/match/tutor/88975343">Wyzant</a></b><span style="float:right;">Jan. '22 - Oct. '24</span> <br>
-                    <h6>
-                    - Helped students complete programming assignments and courses<br>
-                    - Taught new developers Unreal Engine 4/5 practices and workflows<br>
-                    - Broke down programming concepts in detail for students to understand<br>
-                    - Created a safe environment for students of all walks of life to learn<br>
-                    - Learned new skills quickly to adapt to student needs<br>
-                    </h6>
-                </p>
-                <p style="text-align: left;">
-                    <subheading><i><b>Tools Programmer</b></i></subheading><br>
-                    <b><a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Save Game Library</a></b><span style="float:right;">Dec. '21 - Present</span> <br>
-                    <h6>
-                    - Unreal Engine plugin created to make save systems easier for developers<br>
-                    - Adds components that automate most of the saving process<br>
-                    - Written and developed in C++ and accessible from any blueprint<br>
-                    - Improved based on personal implementation and user feedback<br>
-                    </h6>
-                </p>
-                <p style="text-align: left;">
-                    <subheading><i><b>Scare Actor</b></i></subheading><br>
-                    <b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b><span style="float:right;">Oct. '22 - Present</span> <br>
-                    <h6>
-                    - Helped train other Scare Actors to provide a safe and fun experience<br>
-                    - Assisted with construction, operation, scheduling, and managing actors<br>
-                    - Created backstories, developed costumes and characters
-                    </h6>
-                </p>
-            </body>
+        <td>
+        <table>
+            <th style="text-align: center;">Awards
+            </th>
+            <tr>
+                <td class = "awards">
+                    <body>
+                        <p>
+                        <span class = "award"><b>Academy of Art University Spring Show Programming Winner</b></span><span style="float:right;">2026</span><br>
+                        <subheading><a href="https://2026springshow.academyart.edu/student/thomas-jensen/">Rpg Item System</a></subheading>
+                        </p>
+                        <p>
+                        <span class = "award"><b>Unreal SF Game Jam Winner</b></span><span style="float:right;">2025</span><br>
+                        <subheading><a href="https://itch.io/jam/unreal-sf-game-jam/rate/435881">Barnyard Buddies!</a></subheading>
+                        </p>
+                        <p>
+                        <span class = "award"><b>Academy of Art University Spring Show Programming Winner</b></span><span style="float:right;">2024</span><br>
+                        <subheading><a href="https://2024springshow.academyart.edu/schools/game-development/students/thomas-jensen/"> Diablo 2-Style Item Generator</a></subheading>
+                        </p>
+                        <br>
+                    </body>
+                </td>
+            </tr>
+            <tr>
+                <th style="text-align: center;">
+                    <b>Experience</b>
+                </th>
+            </tr>
+            <tr>
+                <td class = "experience">            
+                    <body>
+                        <p style="text-align: left;">
+                            <span class="name"><b>Unannounced Survival Horror Game</b></span><span style="float:right;">Aug. '25 - Present</span><br>
+                            <subheading><i><b>Game & Tools Programmer</b></i></subheading><br>
+                            <h6>
+                            - Building custom tools to facilitate production and streamline workflows<br>
+                            - Working closely with designers to prototype and develop game systems<br>
+                            - Meeting weekly with team members to communicate project needs<br>
+                            - Teaching engine basics and fundamentals to new developers<br>
+                            </h6>
+                        </p>
+                        <p style="text-align: left;">
+                            <span class="name"><b>Unannounced Action Game</b></span><span style="float:right;">Jul. '23 - Sep. '24</span> <br>
+                            <subheading><i><b>Game Programmer</b></i></subheading><br>
+                            <h6>
+                            - Created and improved game mechanics in a multiplayer project<br>
+                            - Improved and expanded existing systems to streamline development<br>
+                            - Fixed bugs and optimized existing systems<br>
+                            </h6>
+                        </p>
+                        <p style="text-align: left;">
+                            <span class="name"><b><a href="https://www.wyzant.com/match/tutor/88975343">Wyzant</a></b></span><span style="float:right;">Jan. '22 - Oct. '24</span><br>
+                            <subheading><i><b>Programming & Game Development Tutor</b></i></subheading><br>
+                            <h6>
+                            - Helped students with programming assignments and learning Unreal Engine 4/5<br>
+                            - Broke down programming concepts in detail for students to understand<br>
+                            - Created a safe environment for students of all walks of life to learn<br>
+                            - Managed scheduling and learned new skills quickly to adapt to student needs<br>
+                            </h6>
+                        </p>
+                        <p style="text-align: left;">
+                            <span class="name"><b><a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Save Game Library</a></b></span><span style="float:right;">Dec. '21 - Present</span> <br>
+                            <subheading><i><b>Tools Programmer</b></i></subheading><br>
+                            <h6>
+                            - Unreal Engine plugin to make save game systems easier for developers<br>
+                            - Plug-and-play system that automates most of the save game process<br>
+                            - Written and developed in C++ and accessible from any blueprint<br>
+                            - Improved based on personal implementation and user feedback<br>
+                            </h6>
+                        </p>
+                        <p style="text-align: left;">
+                            <span class="name"><b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b></span><span style="float:right;">Oct. '22 - Present</span> <br>
+                            <subheading><i><b>Scare Actor</b></i></subheading><br>
+                            <h6>
+                            - Developed a haunt character that customers look forward to every year<br>
+                            - Helped train other Scare Actors to provide a safe and fun scaring experience<br>
+                            - Assisted with construction, operation, scheduling, and managing actors<br>
+                            </h6>
+                        </p>
+                    </body>
+                </td>
+            </tr>
+        </table>
         </td>
     </tr>
 </table>
