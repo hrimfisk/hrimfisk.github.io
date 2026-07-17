@@ -29,11 +29,32 @@ table.skill
 {
     border: 0px solid black;
 }
-table.info
+td.info
+{
+    width: 27%;
+    border-right: 1.5px solid green;
+}
+table.personals
 {
     font-size: 10pt;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+td.personals
+{
+    font-size: 10pt;
+    vertical-align: middle;
+}
+td.image
+{
+    vertical-align: middle;
+}
+img.linkedin,
+img.info
+{
+    width: 18px;
+    height: 18px;
+    display: block
 }
 td.experience, td.awards
 {
@@ -46,6 +67,10 @@ table, th, td {
 }
 p {
     margin-bottom: 0px;
+}
+p.intro
+{
+    margin-bottom: 14px;
 }
 subheading
 {
@@ -63,13 +88,40 @@ subheading
 {
     font-size: 11pt;
 }
+hr
+{
+    display: block;
+    background-color: transparent;
+    margin: 0px;
+    border: none;
+    height: 1.5px;
+    border-top: solid 1px #008000;
+    width: 100%;
+}
 @media print
 {
+    .award
+    {
+        font-size: 10pt;
+    }
+    .awardProject
+    {
+        font-size: 10.5;
+    }
+    td.info
+    {
+        width: 30%;
+        border-right: 1.5px solid green;
+    }
     body
     {
         width: 100%;
         margin: 0;
         padding: 0;
+    }
+    img.linkedin
+    {
+        padding-bottom: 1px;
     }
 }
 </style>
@@ -126,40 +178,58 @@ subheading
 
 <table style="width:100%">
     <tr>
-        <td style="width: 28%; border-right: 1.5px solid green">
+        <td class = "info">
             <h4><b>Thomas Jensen</b></h4>
-            <h6>Game & Tools Programmer</h6>
-            <table class = "info">
+            <h6>
+            Game & Tools Programmer
+            Hayward, CA 94545</h6>
+            <table class = "personals">
+            <!--
                 <tr>
-                    <td>
-                        <img src = "/assets/Website.png" width=18 height=18>
+                    <td class = "image">
+                        <img src = "/assets/Phone.png" class = "info">
                     </td>
-                    <td>
-                        <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
+                    <td class = "personals">
+                        (909) 277 - 8603
                     </td>
                 </tr>
+            -->
                 <tr>
-                    <td>
-                        <img src = "/assets/Email.png" width=18 height=18>
+                    <td class = "image">
+                        <img src = "/assets/Email.png" class = "info">
                     </td>
-                    <td>
+                    <td class = "personals">
                         <a href="mailto: meltykeyboard@gmail.com">MeltyKeyboard@Gmail.com</a>
                     </td>
                 </tr>
                 <tr>
-                    <td>
-                        <img src = "/assets/LinkedIn.png" width=18 height=18>
+                    <td class = "image">
+                        <img src = "/assets/LinkedIn.png" class = "linkedin">
                     </td>
-                    <td>
+                    <td class = "personals">
                         <a href="https://www.linkedin.com/in/hrimfisk/">LinkedIn.com/in/hrimfisk</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class = "image">
+                        <img src = "/assets/Website.png" class = "info">
+                    </td>
+                    <td class = "personals">
+                        <a href="https://hrimfisk.github.io/">hrimfisk.github.io</a>
                     </td>
                 </tr>
             </table>
             <h6>
-            <b>Introduction</b><br>
-            Always enjoy having new problems to solve. Born to build games and developer tools.
+            <p class = "intro">
+            <b>Introduction</b>
+            <br>
+            I enjoy solving new problems. Programming, games, and tools are intertwined passions.
+            </p>
+            <!--
+            <hr>
+            -->
             </h6>
-            <subheading><b>Languages:</b></subheading> <br>
+            <subheading><b>Languages:</b></subheading><br>
             C++ 11/14/17<br>
             C# <br>
             JSON <br>
@@ -183,12 +253,11 @@ subheading
                 </p>
                 <p> 
                     <b>Interests:</b> <br>
-                    Developer Tools <br>
-                    Gameplay <br>
-                    Multiplayer<br>
-                    UI <br>
-                    PCG <br>
-                    AI <br>
+                    Tool Development<br>
+                    Gameplay<br>
+                    User Interface<br>
+                    Multiplayer Networking<br>
+                    Game AI<br>
                 </p>
             </body>
         </td>
@@ -203,7 +272,7 @@ subheading
                         <span class = "award"><b>Academy of Art University Spring Show Programming Winner</b></span><span style="float:right;">May 2026</span><br>
                         <subheading class = "awardProject"><a href="https://2026springshow.academyart.edu/student/thomas-jensen/">Rpg Item System</a> - Tools Programmer</subheading>
                         <h6>
-                        Plug-and-play workflow tools and game-side components for RPG developers
+                        Plug-and-play workflow tools and player-side components for RPG developers
                         </h6>
                         </p>
                         <p>
@@ -225,6 +294,7 @@ subheading
             </tr>
             <tr>
                 <th style="text-align: center;">
+                    <hr>
                     <b>Experience</b>
                 </th>
             </tr>
@@ -274,7 +344,7 @@ subheading
                             <span class="project"><b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b></span><span style="float:right;">Oct. '22 - Present</span> <br>
                             <subheading><i><b>Scare Actor</b></i></subheading><br>
                             <h6>
-                            - Developed a terrifying haunt character that customers look forward to every year<br>
+                            - Developed a scary, original character that customers look forward to every year<br>
                             - Helped train other Scare Actors to provide a safe and fun scaring experience<br>
                             - Assisted with construction, operation, scheduling, and managing actors<br>
                             </h6>
