@@ -5,7 +5,8 @@ summary: "Game & Tools Programmer"
 date:   2024-07-24
 preview: /assets/experience/SpaceBase/splash_cropped.png
 ---
-Casual Base Building Game - UE5
+* Casual Base Building Game
+* Built in Unreal Engine 5 by a team of 5 multidisciplinary developers
 
 <h2>Demonstrates:</h2>
 * Experience creating game systems from scratch and working on a team

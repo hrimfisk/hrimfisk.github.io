@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Project Rogue"
-summary: "Game and Tools Programmer"
+summary: "Game & Tools Programmer (Technical Lead)"
 date:   2023-04-09
 preview: /assets/projects/Project_Rogue/preview.png
 ---
-First-Person Rogue-lite RPG - Built in Unreal Engine 4.27
+* First-Person Rogue-lite RPG<br>
+* Built in Unreal Engine 4.27 for class by a team of 3 programmers<br>
+* Rebuilt for Steam by a team of 2 programmers
 
 <h2>Demonstrates:</h2>
 * Strong 3D math skills and procedural content generation

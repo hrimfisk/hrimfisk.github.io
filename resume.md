@@ -17,7 +17,7 @@ h4, h5
 }
 h6
 {
-    font-size: 10pt;
+    font-size: 11pt;
     margin-bottom: 5px;
 }
 .skill
@@ -72,11 +72,11 @@ p.intro
 {
     margin-bottom: 14px;
 }
-subheading
+p.project
 {
     font-size: 11pt;
 }
-.project
+.role
 {
     font-size: 12pt;
 }
@@ -86,7 +86,7 @@ subheading
 }
 .awardProject
 {
-    font-size: 11pt;
+    font-size: 10pt;
 }
 hr
 {
@@ -100,13 +100,9 @@ hr
 }
 @media print
 {
-    .award
+    span.award
     {
-        font-size: 10pt;
-    }
-    .awardProject
-    {
-        font-size: 10.5;
+        font-size: 9.5pt;
     }
     td.info
     {
@@ -122,6 +118,10 @@ hr
     img.linkedin
     {
         padding-bottom: 1px;
+    }
+    h6
+    {
+        font-size: 9.25pt;
     }
 }
 </style>
@@ -270,23 +270,23 @@ hr
                     <body>
                         <p>
                         <span class = "award"><b>Academy of Art University Spring Show Programming Winner</b></span><span style="float:right;">May 2026</span><br>
-                        <subheading class = "awardProject"><a href="https://2026springshow.academyart.edu/student/thomas-jensen/">Rpg Item System</a> - Tools Programmer</subheading>
+                        <subheading class = "awardProject"><i>Tools Programmer</i> - <a href="https://2026springshow.academyart.edu/student/thomas-jensen/">Rpg Item System</a></subheading>
                         <h6>
-                        Plug-and-play workflow tools and player-side components for RPG developers
+                        ● Plug-and-play workflow tools and player-side components for RPG developers
                         </h6>
                         </p>
                         <p>
-                        <span class = "award"><b>Unreal SF Game Jam Winner</b></span><span style="float:right;">July 2025</span><br>
-                        <subheading class = "awardProject"><a href="https://itch.io/jam/unreal-sf-game-jam/rate/435881">Barnyard Buddies!</a> - Game Programmer</subheading>
+                        <span class = "award"><b>Unreal SF Game Jam 1st Place Winner</b></span><span style="float:right;">July 2025</span><br>
+                        <subheading class = "awardProject"><i>Game Programmer</i> - <a href="https://itch.io/jam/unreal-sf-game-jam/rate/435881">Barnyard Buddies!</a></subheading>
                         <h6>
-                        Whimsical and bite-sized complete experience for a monster ritual theme
+                        ● Whimsical and bite-sized complete experience for a monster ritual theme
                         </h6>
                         </p>
                         <p>
                         <span class = "award"><b>Academy of Art University Spring Show Programming Winner</b></span><span style="float:right;">May 2024</span><br>
-                        <subheading class = "awardProject"><a href="https://2024springshow.academyart.edu/schools/game-development/students/thomas-jensen/"> Diablo 2-Style Item Generator</a> - Tools Programmer</subheading>
+                        <subheading class = "awardProject"><i>Tools Programmer</i> - <a href="https://2024springshow.academyart.edu/schools/game-development/students/thomas-jensen/"> Diablo 2-Style Item Generator</a></subheading>
                         <h6>
-                        Item creation and generation tools to use with player-side systems
+                        ● Item creation and generation tools to use with player-side systems
                         </h6>
                         </p>
                     </body>
@@ -302,51 +302,53 @@ hr
                 <td class = "experience">            
                     <body>
                         <p style="text-align: left;">
-                            <span class="project"><b>Unannounced Survival Horror Game</b></span><span style="float:right;">Aug. '25 - Present</span><br>
-                            <subheading><i><b>Game & Tools Programmer</b></i></subheading><br>
+                            <span class="role"><subheading><b>Game & Tools Programmer</b></subheading></span><span style="float:right;">Aug. '25 - Present</span>
+                            <br>
+                            Freelance
                             <h6>
-                            - Building custom tools to facilitate production and streamline workflows<br>
-                            - Working closely with designers to prototype and develop game systems<br>
-                            - Meeting weekly with team members to communicate project needs<br>
-                            - Teaching engine basics and fundamentals to new developers<br>
+                            ● Building custom tools to facilitate production and streamline workflows<br>
+                            ● Working closely with designers to prototype and develop game systems<br>
+                            ● Meeting weekly with team members to communicate project needs<br>
+                            ● Teaching engine basics and fundamentals to new developers<br>
                             </h6>
                         </p>
                         <p style="text-align: left;">
-                            <span class="project"><b>Unannounced Action Game</b></span><span style="float:right;">Jul. '23 - Sep. '24</span> <br>
-                            <subheading><i><b>Game Programmer</b></i></subheading><br>
+                            <span class="role"><b>Programming & Game Development Tutor</b></span><span style="float:right;">Jan. '22 - Oct. '24</span><br>
+                            <a href="https://www.wyzant.com/match/tutor/88975343">Wyzant</a>
                             <h6>
-                            - Created and improved game mechanics in a multiplayer project<br>
-                            - Improved and expanded existing systems to streamline development<br>
-                            - Fixed bugs and optimized existing systems<br>
+                            ● Helped students with programming assignments and learning Unreal Engine<br>
+                            ● Broke down programming concepts in detail for students to understand<br>
+                            ● Created a safe environment for students of all walks of life to learn<br>
+                            ● Managed scheduling and learned new skills quickly to adapt to student needs<br>
                             </h6>
                         </p>
                         <p style="text-align: left;">
-                            <span class="project"><b><a href="https://www.wyzant.com/match/tutor/88975343">Wyzant</a></b></span><span style="float:right;">Jan. '22 - Oct. '24</span><br>
-                            <subheading><i><b>Programming & Game Development Tutor</b></i></subheading><br>
+                            <span class="role"><b>Lead Game Programmer (Volunteer)</b></span><span style="float:right;">Jul. '23 - Sep. '24</span> <br>
+                            <p class = "project">Project Rogue</p>
                             <h6>
-                            - Helped students with programming assignments and learning Unreal Engine 4/5<br>
-                            - Broke down programming concepts in detail for students to understand<br>
-                            - Created a safe environment for students of all walks of life to learn<br>
-                            - Managed scheduling and learned new skills quickly to adapt to student needs<br>
+                            ● Led a team of three programmers during initial development in Unreal Engine 4<br>
+                            ● Directed the technical redesign and rebuild of the project over the following year<br>
+                            ● Architected core systems, tools, and infrastructure in C++ and blueprints<br>
+                            ● Successfully shipped on Steam, providing bug fixes and content updates afterward<br>
                             </h6>
                         </p>
                         <p style="text-align: left;">
-                            <span class="project"><b><a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Save Game Library</a></b></span><span style="float:right;">Dec. '21 - Present</span> <br>
-                            <subheading><i><b>Tools Programmer</b></i></subheading><br>
+                            <span class="role"><b>Tools Programmer</b></span><span style="float:right;">Dec. '21 - Present</span> <br>
+                            <a href="https://www.fab.com/listings/b3dad9df-2562-4af5-8846-a7b29b6f7652">Save Game Library</a>
                             <h6>
-                            - Unreal Engine plugin to make save game systems easier for developers<br>
-                            - Plug-and-play system that automates most of the save game process<br>
-                            - Written and developed in C++ and accessible from any blueprint<br>
-                            - Improved based on personal implementation and user feedback<br>
+                            ● Unreal Engine plugin to make save game systems easier for developers<br>
+                            ● Plug-and-play system that automates most of the save game process<br>
+                            ● Written and developed in C++ and accessible from any blueprint<br>
+                            ● Improved based on personal implementation and user feedback<br>
                             </h6>
                         </p>
                         <p style="text-align: left;">
-                            <span class="project"><b><a href="https://fearoverload.com/">Fear Overload Scream Park</a></b></span><span style="float:right;">Oct. '22 - Present</span> <br>
-                            <subheading><i><b>Scare Actor</b></i></subheading><br>
+                            <span class="role"><b>Scare Actor</b></span><span style="float:right;">Oct. '22 - Present</span> <br>
+                            <a href="https://fearoverload.com/">Fear Overload Scream Park</a>
                             <h6>
-                            - Developed a scary, original character that customers look forward to every year<br>
-                            - Helped train other Scare Actors to provide a safe and fun scaring experience<br>
-                            - Assisted with construction, operation, scheduling, and managing actors<br>
+                            ● Developed a scary, original character that customers look forward to every year<br>
+                            ● Helped train other Scare Actors to provide a safe and fun scaring experience<br>
+                            ● Assisted with construction, operation, scheduling, and managing actors<br>
                             </h6>
                         </p>
                     </body>
