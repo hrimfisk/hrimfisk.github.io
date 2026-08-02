@@ -181,7 +181,7 @@ hr
         <td class = "info">
             <h4><b>Thomas Jensen</b></h4>
             <h6>
-            Game & Tools Programmer
+            Game & Tools Programmer<br>
             Hayward, CA 94545</h6>
             <table class = "personals">
             <!--
